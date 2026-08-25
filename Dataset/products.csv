@@ -1,0 +1,2501 @@
+ProductID,Category,UnitCost,UnitPrice
+1,Household,56.98,86.37
+2,Beverages,6.2,10.1
+3,Household,35.8,69.01
+4,Bakery,4.17,6.45
+5,Snacks,15.96,26.19
+6,Beverages,49.96,64.9
+7,Bakery,38.58,64.29
+8,Beverages,35.47,53.82
+9,Bakery,4.7,8.87
+10,Frozen,26.31,42.95
+11,Frozen,34.49,60.21
+12,Snacks,35.73,61.14
+13,Household,7.65,13.54
+14,Beverages,37.9,60.53
+15,Produce,47.08,74.03
+16,Personal Care,22.97,32.13
+17,Dairy,42.54,59.36
+18,Frozen,32.46,61.68
+19,Personal Care,18.7,37.1
+20,Snacks,31.69,42.21
+21,Household,10.82,17.22
+22,Beverages,57.8,72.95
+23,Household,21.73,32.16
+24,Personal Care,35.63,55.76
+25,Snacks,56.79,89.69
+26,Snacks,5.52,9.72
+27,Personal Care,18.51,27.92
+28,Household,3.31,5.19
+29,Dairy,37.43,59.7
+30,Bakery,46.56,60.69
+31,Bakery,25.08,48.49
+32,Personal Care,6.67,10.4
+33,Frozen,53.24,98.78
+34,Frozen,42.97,85.47
+35,Produce,57.55,76.01
+36,Dairy,10.78,18.62
+37,Beverages,30.13,50.36
+38,Frozen,18.35,24.16
+39,Household,37.37,54.37
+40,Dairy,42.05,67.8
+41,Beverages,28.49,54.04
+42,Produce,25.09,38.02
+43,Personal Care,38.79,48.48
+44,Snacks,59.11,91.77
+45,Snacks,21.72,26.98
+46,Beverages,34.87,56.81
+47,Household,37.6,47.24
+48,Bakery,37.62,49.61
+49,Frozen,57.42,96.57
+50,Personal Care,9.12,17.14
+51,Personal Care,29.86,43.28
+52,Dairy,7.93,11.69
+53,Frozen,29.76,52.19
+54,Beverages,13.9,27.27
+55,Household,10.5,17.16
+56,Beverages,45.97,66.13
+57,Snacks,42.38,59.71
+58,Household,54.68,81.18
+59,Bakery,32.89,59.97
+60,Household,38.91,65.78
+61,Bakery,48.75,90.41
+62,Bakery,13.6,21.68
+63,Beverages,59.4,108.83
+64,Personal Care,17.03,29.87
+65,Household,27.94,54.47
+66,Household,57.39,85.61
+67,Bakery,7.93,12.5
+68,Household,13.85,23.53
+69,Beverages,29.81,51.34
+70,Snacks,50.41,65.33
+71,Produce,47.37,85.27
+72,Personal Care,53.56,82.86
+73,Household,7.03,13.76
+74,Produce,28.86,51.79
+75,Snacks,44.04,58.84
+76,Dairy,3.6,6.02
+77,Personal Care,48.78,64.24
+78,Personal Care,40.12,59.39
+79,Dairy,3.24,5.96
+80,Snacks,32.54,63.35
+81,Produce,59.22,80.29
+82,Bakery,3.62,4.96
+83,Bakery,46.29,67.62
+84,Produce,50.38,62.91
+85,Household,54.07,93.54
+86,Produce,49.97,95.07
+87,Dairy,32.85,53.18
+88,Beverages,52.62,95.83
+89,Beverages,47.01,62.05
+90,Dairy,29.46,52.44
+91,Beverages,20.91,33.76
+92,Personal Care,47.49,61.02
+93,Beverages,16.41,23.33
+94,Snacks,31.45,51.87
+95,Snacks,27.71,46.83
+96,Bakery,42.18,65.88
+97,Personal Care,31.45,43.97
+98,Frozen,55.52,106.28
+99,Bakery,50.72,66.43
+100,Snacks,24.76,35.97
+101,Bakery,26.84,36.77
+102,Frozen,47.47,91.03
+103,Dairy,56.49,96.87
+104,Household,10.29,19.62
+105,Personal Care,14.74,28.92
+106,Produce,53.33,70.94
+107,Bakery,11.37,17.57
+108,Produce,21.67,29.4
+109,Household,7.35,10.97
+110,Household,34.13,52.98
+111,Beverages,24.29,39.2
+112,Frozen,31.71,39.68
+113,Bakery,58.36,74.92
+114,Frozen,17.77,34.2
+115,Dairy,17.69,23.06
+116,Produce,51.28,89.27
+117,Frozen,25.54,41.61
+118,Personal Care,42.62,54.19
+119,Beverages,48.38,65.15
+120,Snacks,17.6,21.36
+121,Snacks,48.49,61.44
+122,Bakery,5.86,11.08
+123,Personal Care,2.67,5.33
+124,Produce,55.75,78.85
+125,Dairy,4.51,7.97
+126,Snacks,58.21,82.05
+127,Dairy,13.7,19.86
+128,Frozen,32.8,44.76
+129,Personal Care,31.01,41.63
+130,Household,48.61,97.01
+131,Beverages,2.89,5.16
+132,Bakery,31.83,44.45
+133,Personal Care,8.16,15.14
+134,Produce,40.08,65.6
+135,Produce,58.28,84.29
+136,Bakery,58.98,86.95
+137,Dairy,25.47,37.65
+138,Beverages,50.55,61.24
+139,Frozen,26.98,33.57
+140,Produce,52.49,91.15
+141,Frozen,36.73,64.43
+142,Beverages,28.65,37.99
+143,Personal Care,2.21,3.3
+144,Household,58.41,95.66
+145,Bakery,4.0,7.62
+146,Bakery,22.68,27.24
+147,Produce,6.87,9.78
+148,Bakery,16.39,29.85
+149,Snacks,17.32,22.03
+150,Produce,36.03,54.59
+151,Frozen,19.65,27.24
+152,Dairy,40.14,71.16
+153,Produce,46.33,82.31
+154,Personal Care,10.67,18.99
+155,Dairy,4.54,8.48
+156,Produce,44.56,82.43
+157,Dairy,54.77,98.71
+158,Beverages,49.93,83.25
+159,Bakery,6.94,8.56
+160,Household,57.65,86.55
+161,Personal Care,34.39,58.54
+162,Bakery,30.38,36.54
+163,Snacks,45.4,72.75
+164,Snacks,40.24,50.41
+165,Personal Care,16.63,20.95
+166,Frozen,15.62,28.2
+167,Bakery,44.91,88.95
+168,Personal Care,51.04,64.38
+169,Frozen,46.48,78.72
+170,Bakery,6.49,8.55
+171,Frozen,39.79,69.8
+172,Dairy,2.72,3.4
+173,Frozen,58.41,74.74
+174,Bakery,41.19,59.01
+175,Frozen,28.95,45.54
+176,Snacks,59.61,97.72
+177,Frozen,58.73,114.46
+178,Beverages,18.8,23.71
+179,Personal Care,59.65,90.04
+180,Bakery,6.33,8.05
+181,Frozen,57.26,74.79
+182,Frozen,53.44,94.2
+183,Bakery,30.88,58.7
+184,Produce,3.44,4.14
+185,Personal Care,41.53,63.31
+186,Dairy,26.14,39.23
+187,Snacks,50.73,60.95
+188,Household,50.67,65.67
+189,Bakery,43.36,83.31
+190,Frozen,16.69,20.9
+191,Produce,59.93,100.16
+192,Household,55.67,100.46
+193,Beverages,18.28,22.69
+194,Frozen,38.83,51.22
+195,Frozen,27.3,39.65
+196,Household,47.54,73.32
+197,Beverages,49.09,83.68
+198,Bakery,43.74,54.22
+199,Produce,28.15,50.73
+200,Frozen,30.16,58.19
+201,Dairy,11.9,18.23
+202,Frozen,19.27,34.52
+203,Frozen,25.56,35.55
+204,Personal Care,34.32,52.01
+205,Dairy,39.31,49.54
+206,Personal Care,33.92,53.0
+207,Household,59.8,93.29
+208,Dairy,33.77,47.12
+209,Dairy,21.83,27.79
+210,Bakery,23.36,43.16
+211,Bakery,53.46,96.21
+212,Produce,24.2,43.48
+213,Bakery,23.86,35.09
+214,Beverages,30.89,51.26
+215,Household,9.3,14.91
+216,Bakery,7.37,14.13
+217,Produce,25.19,39.21
+218,Frozen,51.22,97.23
+219,Beverages,9.38,14.45
+220,Personal Care,58.16,92.58
+221,Snacks,24.71,47.97
+222,Personal Care,58.39,81.67
+223,Snacks,14.98,19.8
+224,Snacks,56.61,100.62
+225,Personal Care,6.93,12.62
+226,Beverages,47.37,65.66
+227,Beverages,39.44,56.91
+228,Dairy,38.34,62.21
+229,Produce,42.52,54.84
+230,Snacks,19.42,37.96
+231,Bakery,24.51,33.8
+232,Beverages,2.61,3.76
+233,Personal Care,18.16,26.39
+234,Bakery,29.57,41.04
+235,Bakery,3.7,5.66
+236,Frozen,5.21,7.06
+237,Produce,6.7,9.26
+238,Produce,55.66,76.89
+239,Beverages,42.36,75.17
+240,Household,41.59,56.5
+241,Frozen,44.87,71.97
+242,Bakery,30.75,41.83
+243,Bakery,15.39,21.19
+244,Frozen,8.32,14.13
+245,Dairy,54.0,85.75
+246,Beverages,57.03,75.11
+247,Produce,5.15,6.28
+248,Dairy,26.09,46.12
+249,Dairy,24.81,47.6
+250,Household,44.5,88.91
+251,Dairy,21.1,28.45
+252,Personal Care,3.85,6.67
+253,Produce,50.67,100.73
+254,Personal Care,11.82,14.21
+255,Frozen,6.68,10.26
+256,Snacks,34.55,62.43
+257,Produce,22.68,42.12
+258,Produce,7.09,12.51
+259,Bakery,23.62,45.72
+260,Bakery,20.75,37.14
+261,Personal Care,3.76,5.75
+262,Produce,4.36,5.35
+263,Snacks,48.59,60.72
+264,Bakery,45.34,87.0
+265,Household,23.05,33.84
+266,Beverages,17.21,30.52
+267,Household,55.61,79.96
+268,Snacks,3.41,4.73
+269,Personal Care,43.5,68.41
+270,Produce,47.81,92.31
+271,Personal Care,9.7,15.49
+272,Beverages,48.55,86.94
+273,Dairy,37.22,54.42
+274,Household,28.73,52.49
+275,Snacks,31.69,47.96
+276,Dairy,16.34,20.45
+277,Beverages,29.94,48.97
+278,Dairy,58.85,112.21
+279,Snacks,17.36,22.0
+280,Snacks,26.42,52.6
+281,Personal Care,12.05,15.74
+282,Personal Care,37.98,66.06
+283,Snacks,47.23,67.78
+284,Frozen,34.88,52.26
+285,Frozen,13.55,18.94
+286,Bakery,15.66,22.32
+287,Bakery,20.93,31.75
+288,Bakery,31.42,43.52
+289,Snacks,39.89,79.49
+290,Snacks,2.26,4.31
+291,Bakery,50.75,98.02
+292,Beverages,52.86,73.28
+293,Beverages,13.0,25.72
+294,Bakery,55.95,83.8
+295,Dairy,28.05,39.49
+296,Beverages,8.14,13.65
+297,Household,14.62,21.86
+298,Dairy,4.56,9.12
+299,Beverages,36.77,63.29
+300,Bakery,49.26,91.38
+301,Produce,41.34,55.73
+302,Frozen,6.52,7.99
+303,Personal Care,33.79,42.26
+304,Snacks,48.16,83.38
+305,Dairy,39.07,49.73
+306,Dairy,25.07,35.52
+307,Frozen,40.73,62.49
+308,Beverages,20.12,33.26
+309,Household,26.02,31.6
+310,Household,39.38,59.57
+311,Produce,13.81,16.64
+312,Dairy,26.58,49.34
+313,Produce,35.51,52.97
+314,Dairy,9.54,11.84
+315,Dairy,39.16,75.49
+316,Snacks,35.23,68.41
+317,Dairy,10.46,14.92
+318,Dairy,55.68,71.66
+319,Personal Care,45.71,83.82
+320,Bakery,19.49,36.44
+321,Beverages,58.58,92.92
+322,Beverages,37.24,63.65
+323,Snacks,54.44,92.35
+324,Dairy,39.14,73.79
+325,Produce,37.65,51.09
+326,Personal Care,12.61,17.33
+327,Produce,56.44,74.79
+328,Household,9.14,12.77
+329,Bakery,4.38,7.23
+330,Beverages,40.74,59.45
+331,Produce,36.77,60.3
+332,Frozen,39.64,57.34
+333,Bakery,26.69,46.1
+334,Personal Care,31.21,41.92
+335,Beverages,37.9,60.32
+336,Bakery,27.92,47.32
+337,Personal Care,50.52,93.38
+338,Produce,8.21,10.7
+339,Produce,23.19,42.71
+340,Beverages,4.36,5.69
+341,Household,47.1,75.79
+342,Beverages,45.62,87.4
+343,Dairy,3.5,4.39
+344,Snacks,13.24,26.29
+345,Personal Care,18.7,34.57
+346,Dairy,41.8,74.27
+347,Bakery,5.8,8.59
+348,Frozen,11.21,21.49
+349,Frozen,54.49,85.28
+350,Frozen,31.13,60.27
+351,Bakery,36.33,61.5
+352,Bakery,20.51,25.22
+353,Dairy,25.4,43.42
+354,Frozen,41.42,79.37
+355,Dairy,47.94,67.67
+356,Beverages,38.91,57.89
+357,Personal Care,34.2,56.91
+358,Snacks,16.62,27.07
+359,Produce,44.8,67.07
+360,Produce,59.45,98.8
+361,Household,21.19,26.81
+362,Bakery,12.25,21.99
+363,Beverages,19.19,30.95
+364,Frozen,39.08,77.66
+365,Household,44.52,80.03
+366,Bakery,10.66,18.05
+367,Produce,26.23,39.12
+368,Beverages,9.66,13.35
+369,Beverages,3.29,3.95
+370,Household,19.62,31.75
+371,Bakery,25.97,37.42
+372,Dairy,13.84,23.52
+373,Personal Care,11.2,13.57
+374,Bakery,43.03,67.16
+375,Snacks,39.02,74.02
+376,Frozen,25.31,35.72
+377,Beverages,5.26,9.77
+378,Household,36.49,60.67
+379,Personal Care,16.41,31.55
+380,Beverages,5.57,6.8
+381,Dairy,15.78,19.67
+382,Snacks,2.72,4.46
+383,Bakery,10.25,13.94
+384,Produce,49.18,65.89
+385,Frozen,5.7,9.69
+386,Personal Care,43.49,52.41
+387,Produce,45.22,71.1
+388,Personal Care,12.17,24.31
+389,Frozen,15.47,19.04
+390,Household,53.69,104.17
+391,Frozen,43.28,61.15
+392,Produce,41.77,80.78
+393,Frozen,19.15,37.21
+394,Bakery,6.95,11.16
+395,Dairy,17.1,23.75
+396,Bakery,56.79,102.05
+397,Household,13.13,19.84
+398,Bakery,24.01,45.18
+399,Personal Care,29.38,47.73
+400,Beverages,51.74,80.19
+401,Bakery,35.08,50.73
+402,Bakery,24.71,41.22
+403,Dairy,10.39,12.69
+404,Snacks,38.07,50.61
+405,Dairy,42.64,52.22
+406,Dairy,42.17,71.99
+407,Snacks,44.73,56.03
+408,Household,13.56,26.63
+409,Snacks,53.02,95.68
+410,Produce,8.21,11.2
+411,Snacks,3.96,7.76
+412,Snacks,49.85,85.01
+413,Frozen,29.67,38.75
+414,Bakery,19.08,28.03
+415,Frozen,3.21,4.51
+416,Frozen,4.81,8.7
+417,Household,46.62,78.4
+418,Personal Care,51.38,87.07
+419,Beverages,47.77,58.52
+420,Snacks,22.11,39.0
+421,Bakery,43.43,80.88
+422,Frozen,11.88,14.27
+423,Bakery,18.72,33.7
+424,Beverages,2.25,3.58
+425,Personal Care,42.32,78.73
+426,Personal Care,36.37,71.49
+427,Frozen,35.52,47.14
+428,Bakery,56.42,78.15
+429,Dairy,8.38,14.32
+430,Snacks,30.44,60.66
+431,Snacks,38.42,57.03
+432,Produce,55.85,106.87
+433,Snacks,26.48,45.46
+434,Household,13.95,19.68
+435,Dairy,24.0,45.77
+436,Bakery,56.75,73.86
+437,Beverages,22.21,32.46
+438,Dairy,52.34,81.66
+439,Household,11.83,18.35
+440,Frozen,35.59,46.3
+441,Personal Care,39.28,69.02
+442,Bakery,17.51,31.58
+443,Dairy,43.95,87.01
+444,Household,36.97,54.68
+445,Bakery,21.03,28.42
+446,Snacks,11.55,19.94
+447,Bakery,24.29,48.27
+448,Frozen,44.53,68.93
+449,Bakery,8.34,16.09
+450,Frozen,13.97,21.1
+451,Beverages,2.73,5.14
+452,Produce,42.22,67.57
+453,Frozen,28.87,37.92
+454,Produce,2.32,3.23
+455,Produce,42.67,71.26
+456,Produce,51.07,88.57
+457,Bakery,41.42,70.96
+458,Personal Care,27.09,38.14
+459,Snacks,53.9,75.13
+460,Produce,43.36,73.87
+461,Frozen,51.27,81.32
+462,Beverages,38.05,58.12
+463,Dairy,53.88,78.8
+464,Beverages,24.55,39.08
+465,Snacks,4.21,6.88
+466,Dairy,43.54,85.38
+467,Bakery,32.11,41.13
+468,Personal Care,33.38,59.21
+469,Beverages,39.08,72.81
+470,Household,25.8,50.53
+471,Bakery,59.44,80.07
+472,Snacks,44.29,74.9
+473,Beverages,16.64,25.05
+474,Beverages,2.77,4.25
+475,Produce,38.46,66.92
+476,Frozen,8.34,12.03
+477,Produce,56.52,91.66
+478,Bakery,59.67,117.47
+479,Personal Care,14.3,18.64
+480,Snacks,48.96,83.6
+481,Personal Care,39.25,69.73
+482,Dairy,22.48,38.46
+483,Produce,29.15,41.84
+484,Dairy,47.23,74.41
+485,Bakery,17.51,26.28
+486,Frozen,59.01,102.86
+487,Personal Care,2.16,3.84
+488,Frozen,22.76,39.23
+489,Household,29.81,45.99
+490,Snacks,40.24,59.96
+491,Frozen,51.56,64.23
+492,Household,47.47,62.3
+493,Household,38.72,46.93
+494,Beverages,14.17,17.82
+495,Frozen,16.5,21.14
+496,Dairy,51.54,69.5
+497,Personal Care,22.09,29.21
+498,Produce,47.92,63.94
+499,Snacks,40.77,78.08
+500,Frozen,13.45,23.59
+501,Snacks,45.03,69.84
+502,Snacks,34.19,48.26
+503,Bakery,49.97,78.88
+504,Beverages,30.09,57.9
+505,Personal Care,16.3,21.71
+506,Beverages,11.3,16.46
+507,Personal Care,40.59,76.0
+508,Household,26.7,53.4
+509,Snacks,12.47,18.56
+510,Beverages,3.19,3.95
+511,Household,48.9,62.36
+512,Personal Care,30.11,57.75
+513,Beverages,14.37,22.02
+514,Dairy,21.64,40.89
+515,Household,21.8,39.74
+516,Bakery,18.48,27.23
+517,Frozen,34.13,63.53
+518,Frozen,22.6,36.05
+519,Household,31.22,44.25
+520,Household,58.55,100.92
+521,Snacks,21.19,30.8
+522,Frozen,9.4,18.6
+523,Snacks,47.48,58.5
+524,Produce,33.63,41.69
+525,Frozen,8.29,10.26
+526,Personal Care,37.3,64.4
+527,Produce,37.77,64.26
+528,Snacks,14.33,24.84
+529,Personal Care,38.27,51.25
+530,Dairy,52.41,80.57
+531,Snacks,55.02,94.89
+532,Household,52.57,68.92
+533,Frozen,34.6,48.66
+534,Frozen,12.72,15.61
+535,Beverages,26.98,46.23
+536,Beverages,30.87,49.94
+537,Snacks,46.88,72.05
+538,Produce,27.9,33.8
+539,Produce,36.44,72.68
+540,Dairy,29.58,45.26
+541,Snacks,6.81,10.74
+542,Dairy,38.36,59.14
+543,Beverages,41.66,54.05
+544,Snacks,14.66,19.02
+545,Personal Care,3.03,5.38
+546,Bakery,28.15,50.54
+547,Beverages,23.22,41.74
+548,Dairy,44.32,56.17
+549,Personal Care,28.71,55.87
+550,Frozen,54.98,68.29
+551,Beverages,2.66,3.22
+552,Snacks,24.56,35.61
+553,Dairy,57.55,107.5
+554,Beverages,20.34,39.85
+555,Personal Care,29.25,39.0
+556,Snacks,23.07,39.59
+557,Produce,29.66,54.05
+558,Personal Care,56.81,103.83
+559,Household,18.96,23.67
+560,Household,52.43,93.36
+561,Beverages,50.21,84.4
+562,Frozen,35.91,71.14
+563,Bakery,23.85,41.69
+564,Bakery,48.83,69.66
+565,Beverages,20.65,29.21
+566,Dairy,36.03,66.76
+567,Beverages,18.73,24.58
+568,Dairy,17.88,33.63
+569,Personal Care,22.12,28.05
+570,Personal Care,48.25,65.64
+571,Bakery,19.95,24.86
+572,Produce,28.99,39.58
+573,Frozen,36.01,43.48
+574,Produce,28.66,36.4
+575,Household,46.79,64.86
+576,Frozen,53.34,86.28
+577,Personal Care,31.36,42.7
+578,Bakery,13.15,17.68
+579,Frozen,23.04,38.05
+580,Produce,47.22,89.04
+581,Bakery,4.59,9.17
+582,Household,52.25,78.24
+583,Personal Care,47.67,63.16
+584,Beverages,22.01,35.56
+585,Beverages,7.46,10.17
+586,Personal Care,36.03,49.39
+587,Frozen,26.71,52.28
+588,Dairy,16.73,20.58
+589,Bakery,59.69,89.69
+590,Beverages,4.96,8.16
+591,Personal Care,30.24,56.74
+592,Snacks,52.05,89.1
+593,Snacks,42.97,54.66
+594,Household,34.74,59.49
+595,Produce,12.59,23.67
+596,Household,58.01,115.64
+597,Bakery,11.98,23.4
+598,Household,5.44,8.93
+599,Beverages,50.56,62.57
+600,Personal Care,5.23,6.88
+601,Beverages,56.48,98.36
+602,Frozen,36.21,56.24
+603,Snacks,29.3,43.87
+604,Produce,9.2,14.58
+605,Dairy,27.6,50.95
+606,Beverages,29.14,56.24
+607,Beverages,11.1,20.72
+608,Snacks,56.17,106.35
+609,Dairy,47.14,92.69
+610,Produce,50.85,86.58
+611,Personal Care,58.39,85.14
+612,Bakery,29.7,50.57
+613,Dairy,21.25,38.01
+614,Dairy,43.4,71.29
+615,Dairy,27.46,36.23
+616,Produce,25.88,34.28
+617,Frozen,35.12,50.48
+618,Dairy,17.12,22.04
+619,Personal Care,54.38,70.22
+620,Beverages,38.6,70.64
+621,Bakery,34.48,64.42
+622,Snacks,16.95,23.07
+623,Household,27.06,38.13
+624,Bakery,55.65,71.12
+625,Frozen,26.11,34.72
+626,Frozen,10.37,17.75
+627,Personal Care,48.81,71.88
+628,Dairy,27.69,50.72
+629,Frozen,12.78,19.79
+630,Produce,14.66,24.29
+631,Dairy,50.92,82.35
+632,Bakery,43.27,58.73
+633,Snacks,50.08,95.73
+634,Personal Care,46.15,61.85
+635,Dairy,37.52,66.27
+636,Bakery,35.81,48.77
+637,Snacks,42.15,68.1
+638,Beverages,32.07,47.4
+639,Frozen,50.83,96.15
+640,Personal Care,7.24,11.06
+641,Personal Care,9.73,16.86
+642,Bakery,12.79,23.86
+643,Household,4.13,7.28
+644,Beverages,22.66,44.09
+645,Snacks,9.0,15.95
+646,Household,47.19,89.4
+647,Beverages,18.91,24.32
+648,Personal Care,27.89,34.04
+649,Dairy,3.2,6.32
+650,Bakery,37.91,50.58
+651,Frozen,16.53,30.64
+652,Beverages,3.13,6.08
+653,Bakery,17.16,32.09
+654,Personal Care,32.33,56.97
+655,Snacks,22.34,28.49
+656,Dairy,4.62,6.0
+657,Personal Care,35.98,65.1
+658,Snacks,9.08,13.84
+659,Dairy,33.41,46.17
+660,Bakery,10.54,17.48
+661,Produce,11.53,21.46
+662,Produce,42.24,70.86
+663,Beverages,24.95,48.73
+664,Household,21.64,30.13
+665,Household,43.5,81.54
+666,Household,49.27,92.53
+667,Beverages,20.84,27.45
+668,Household,16.46,25.31
+669,Beverages,23.14,37.59
+670,Snacks,20.81,28.31
+671,Beverages,15.08,23.17
+672,Produce,47.04,91.71
+673,Beverages,48.94,93.35
+674,Beverages,3.99,6.84
+675,Frozen,55.24,93.84
+676,Beverages,38.03,53.26
+677,Beverages,27.15,53.23
+678,Frozen,8.56,12.65
+679,Dairy,8.98,15.05
+680,Frozen,6.9,11.54
+681,Dairy,27.52,44.29
+682,Frozen,55.1,91.57
+683,Frozen,16.12,20.48
+684,Frozen,50.71,85.6
+685,Bakery,39.72,54.06
+686,Household,28.73,47.07
+687,Personal Care,29.2,42.29
+688,Bakery,21.35,28.84
+689,Produce,58.24,88.36
+690,Household,11.41,22.38
+691,Household,34.29,54.63
+692,Frozen,52.95,72.7
+693,Beverages,46.78,62.07
+694,Snacks,37.14,54.91
+695,Beverages,31.99,59.74
+696,Household,44.65,57.48
+697,Bakery,59.38,103.45
+698,Dairy,26.17,45.39
+699,Dairy,41.17,69.7
+700,Frozen,49.63,80.11
+701,Personal Care,17.58,29.97
+702,Dairy,25.96,33.3
+703,Produce,46.41,77.44
+704,Personal Care,25.05,49.96
+705,Dairy,26.24,47.94
+706,Snacks,24.01,37.5
+707,Personal Care,18.71,27.73
+708,Household,24.66,40.55
+709,Produce,39.6,47.73
+710,Personal Care,24.08,34.68
+711,Frozen,48.57,75.21
+712,Produce,35.73,45.39
+713,Household,20.78,38.96
+714,Bakery,57.61,78.55
+715,Produce,53.69,105.49
+716,Beverages,4.75,7.85
+717,Personal Care,19.39,31.59
+718,Frozen,33.23,66.42
+719,Produce,24.59,36.54
+720,Household,28.28,34.17
+721,Snacks,32.46,41.52
+722,Household,31.05,53.37
+723,Dairy,53.03,104.55
+724,Personal Care,25.3,45.89
+725,Household,42.11,75.68
+726,Snacks,11.9,17.31
+727,Snacks,49.91,80.36
+728,Snacks,40.04,57.49
+729,Household,49.59,98.79
+730,Produce,38.6,62.5
+731,Bakery,31.28,42.24
+732,Dairy,5.49,9.07
+733,Snacks,22.48,44.85
+734,Beverages,42.12,50.91
+735,Beverages,19.79,34.68
+736,Beverages,55.19,83.78
+737,Snacks,36.0,62.44
+738,Bakery,12.16,22.07
+739,Frozen,52.53,100.67
+740,Dairy,35.32,54.0
+741,Snacks,10.43,16.84
+742,Snacks,3.68,4.64
+743,Personal Care,49.74,84.08
+744,Beverages,39.71,69.4
+745,Household,10.35,14.39
+746,Frozen,11.83,16.72
+747,Snacks,51.84,101.51
+748,Snacks,22.24,34.69
+749,Produce,3.13,4.31
+750,Produce,35.79,70.42
+751,Personal Care,5.17,7.19
+752,Bakery,4.55,8.85
+753,Dairy,20.26,38.88
+754,Personal Care,19.61,32.98
+755,Personal Care,58.81,73.75
+756,Produce,41.14,68.62
+757,Produce,19.93,37.87
+758,Personal Care,3.3,6.25
+759,Snacks,12.06,17.93
+760,Dairy,2.44,4.65
+761,Produce,34.57,44.66
+762,Produce,21.48,36.97
+763,Snacks,26.49,51.14
+764,Bakery,24.47,38.51
+765,Household,15.76,19.35
+766,Beverages,21.8,28.88
+767,Dairy,7.37,10.43
+768,Dairy,34.19,53.8
+769,Bakery,11.23,16.65
+770,Produce,23.86,46.93
+771,Bakery,19.24,30.41
+772,Bakery,15.18,23.71
+773,Dairy,56.64,113.19
+774,Personal Care,36.08,53.92
+775,Bakery,25.44,40.91
+776,Dairy,52.6,68.29
+777,Snacks,33.47,47.4
+778,Produce,3.67,6.51
+779,Dairy,20.03,30.28
+780,Snacks,42.29,77.01
+781,Bakery,20.62,35.68
+782,Snacks,5.95,11.49
+783,Frozen,13.18,23.39
+784,Snacks,15.13,19.68
+785,Produce,18.38,27.99
+786,Personal Care,46.95,89.5
+787,Dairy,56.33,75.54
+788,Household,41.42,71.69
+789,Household,54.02,65.92
+790,Personal Care,16.41,30.81
+791,Household,54.55,69.72
+792,Frozen,8.68,16.75
+793,Bakery,43.33,53.4
+794,Beverages,37.29,57.6
+795,Frozen,11.06,19.8
+796,Frozen,38.51,75.22
+797,Bakery,35.07,62.19
+798,Frozen,55.69,96.68
+799,Household,56.27,72.56
+800,Frozen,54.26,103.1
+801,Beverages,58.5,102.07
+802,Beverages,47.9,65.53
+803,Household,45.47,57.7
+804,Produce,59.89,101.35
+805,Bakery,18.31,23.29
+806,Produce,27.67,40.74
+807,Personal Care,31.5,54.85
+808,Bakery,26.84,43.2
+809,Dairy,30.39,41.07
+810,Frozen,12.12,16.13
+811,Bakery,33.55,46.96
+812,Beverages,11.75,17.36
+813,Snacks,13.68,19.81
+814,Dairy,41.8,66.43
+815,Personal Care,15.8,22.02
+816,Personal Care,9.72,16.65
+817,Frozen,9.74,17.2
+818,Bakery,21.35,39.55
+819,Produce,46.11,61.57
+820,Dairy,36.72,57.61
+821,Produce,50.21,64.85
+822,Frozen,2.72,4.32
+823,Beverages,5.5,7.84
+824,Bakery,8.41,12.17
+825,Snacks,11.36,17.68
+826,Household,18.79,30.93
+827,Beverages,2.63,5.24
+828,Personal Care,6.87,12.19
+829,Frozen,8.31,13.22
+830,Produce,30.32,55.4
+831,Household,2.48,4.8
+832,Frozen,38.41,74.83
+833,Frozen,39.88,50.35
+834,Beverages,3.47,5.26
+835,Dairy,19.19,25.88
+836,Dairy,7.93,14.08
+837,Frozen,45.05,65.83
+838,Dairy,39.54,58.72
+839,Bakery,23.37,38.35
+840,Household,50.59,70.97
+841,Beverages,4.39,7.26
+842,Produce,54.5,106.6
+843,Personal Care,26.53,47.35
+844,Frozen,36.95,62.86
+845,Dairy,41.9,55.77
+846,Personal Care,38.93,59.22
+847,Beverages,51.34,81.3
+848,Bakery,43.93,52.81
+849,Produce,10.3,12.95
+850,Beverages,31.85,48.95
+851,Household,5.64,6.81
+852,Dairy,54.43,72.48
+853,Frozen,2.24,4.13
+854,Household,34.92,55.0
+855,Household,31.97,49.32
+856,Dairy,58.51,115.23
+857,Snacks,49.05,61.21
+858,Household,37.33,53.67
+859,Produce,57.26,90.73
+860,Dairy,19.36,28.55
+861,Beverages,51.19,70.54
+862,Personal Care,42.1,55.47
+863,Household,34.18,66.81
+864,Household,32.74,54.08
+865,Produce,17.14,23.68
+866,Bakery,33.79,43.58
+867,Frozen,39.68,53.57
+868,Frozen,43.13,59.59
+869,Personal Care,15.14,25.1
+870,Snacks,44.66,86.08
+871,Snacks,51.39,89.6
+872,Personal Care,9.79,15.69
+873,Snacks,38.34,75.46
+874,Snacks,28.68,50.15
+875,Dairy,58.14,78.68
+876,Personal Care,46.95,61.48
+877,Beverages,25.45,31.5
+878,Beverages,2.88,4.83
+879,Bakery,28.66,37.16
+880,Dairy,26.71,51.04
+881,Bakery,34.65,67.01
+882,Household,11.74,21.09
+883,Household,48.64,87.01
+884,Beverages,49.89,64.77
+885,Household,31.76,51.44
+886,Household,43.86,54.16
+887,Household,7.78,12.75
+888,Snacks,3.98,7.67
+889,Bakery,16.77,22.72
+890,Personal Care,3.23,6.43
+891,Personal Care,8.59,10.45
+892,Snacks,6.28,8.83
+893,Dairy,34.15,48.9
+894,Produce,50.5,84.37
+895,Frozen,33.23,58.21
+896,Frozen,57.03,69.07
+897,Household,59.68,94.88
+898,Personal Care,52.64,96.88
+899,Beverages,6.33,10.74
+900,Produce,50.89,100.46
+901,Personal Care,24.82,47.12
+902,Snacks,22.93,37.21
+903,Frozen,53.85,90.0
+904,Beverages,14.26,26.46
+905,Personal Care,21.22,33.42
+906,Household,20.23,29.71
+907,Personal Care,21.36,25.98
+908,Personal Care,52.82,89.1
+909,Dairy,44.16,58.07
+910,Produce,17.85,28.56
+911,Frozen,22.7,37.66
+912,Dairy,59.55,73.09
+913,Snacks,52.6,95.7
+914,Snacks,23.05,32.85
+915,Bakery,52.62,102.66
+916,Snacks,19.63,35.54
+917,Household,31.52,53.84
+918,Household,52.63,93.29
+919,Household,5.51,8.1
+920,Household,53.25,97.24
+921,Household,53.86,99.5
+922,Household,10.75,14.67
+923,Personal Care,25.49,38.66
+924,Frozen,55.91,93.34
+925,Dairy,19.49,28.2
+926,Household,6.26,8.46
+927,Snacks,35.93,51.86
+928,Household,59.27,88.05
+929,Produce,43.83,84.92
+930,Personal Care,20.52,27.5
+931,Frozen,33.7,60.89
+932,Frozen,15.74,19.14
+933,Beverages,25.18,34.25
+934,Frozen,52.12,89.57
+935,Bakery,16.02,19.95
+936,Dairy,36.86,46.57
+937,Household,43.7,52.62
+938,Frozen,33.14,62.98
+939,Household,55.53,76.06
+940,Household,52.33,63.93
+941,Personal Care,25.51,44.47
+942,Household,12.12,22.91
+943,Beverages,7.06,11.93
+944,Personal Care,59.29,90.1
+945,Personal Care,52.65,64.26
+946,Household,34.72,69.09
+947,Beverages,26.08,46.11
+948,Household,11.09,13.47
+949,Bakery,10.27,18.63
+950,Snacks,22.75,33.88
+951,Household,33.24,55.54
+952,Dairy,40.13,67.47
+953,Household,15.34,26.0
+954,Personal Care,46.27,84.25
+955,Frozen,39.8,65.26
+956,Personal Care,34.44,51.28
+957,Frozen,9.65,11.65
+958,Personal Care,7.79,14.39
+959,Household,10.73,18.27
+960,Produce,45.88,58.36
+961,Beverages,38.23,49.61
+962,Bakery,34.2,46.01
+963,Household,44.78,86.08
+964,Dairy,32.65,48.34
+965,Bakery,27.61,52.12
+966,Bakery,38.9,57.39
+967,Produce,28.69,41.86
+968,Beverages,8.25,14.74
+969,Snacks,48.79,94.21
+970,Household,5.48,9.05
+971,Produce,54.61,81.94
+972,Bakery,3.78,4.6
+973,Produce,16.03,23.78
+974,Household,46.03,78.9
+975,Frozen,53.01,84.76
+976,Dairy,29.69,57.81
+977,Frozen,57.35,75.08
+978,Frozen,18.39,26.95
+979,Personal Care,52.58,73.6
+980,Household,41.6,69.81
+981,Personal Care,14.3,17.76
+982,Bakery,51.38,91.89
+983,Beverages,47.23,89.3
+984,Dairy,27.22,35.71
+985,Frozen,41.74,76.97
+986,Dairy,58.51,70.65
+987,Frozen,10.75,19.23
+988,Snacks,45.58,71.63
+989,Produce,7.23,10.64
+990,Produce,53.15,105.43
+991,Beverages,35.95,48.93
+992,Beverages,4.2,6.74
+993,Bakery,35.34,62.15
+994,Beverages,4.8,9.19
+995,Snacks,52.96,68.66
+996,Personal Care,58.29,94.45
+997,Beverages,12.38,21.64
+998,Dairy,38.73,63.38
+999,Snacks,32.74,61.28
+1000,Snacks,22.27,30.56
+1001,Bakery,44.42,63.0
+1002,Dairy,2.88,4.08
+1003,Beverages,13.39,16.58
+1004,Household,17.5,25.56
+1005,Beverages,39.88,65.21
+1006,Household,42.04,83.49
+1007,Frozen,25.16,36.6
+1008,Produce,24.21,31.98
+1009,Produce,53.14,97.94
+1010,Beverages,15.87,25.41
+1011,Frozen,42.23,75.34
+1012,Bakery,49.88,86.33
+1013,Snacks,50.9,93.0
+1014,Beverages,25.54,42.06
+1015,Personal Care,33.84,49.15
+1016,Beverages,29.46,50.61
+1017,Personal Care,31.59,52.88
+1018,Produce,15.6,26.58
+1019,Produce,22.6,28.28
+1020,Frozen,37.54,65.39
+1021,Household,6.18,11.36
+1022,Bakery,55.59,100.75
+1023,Frozen,54.71,86.37
+1024,Household,32.28,51.04
+1025,Bakery,59.97,75.12
+1026,Household,32.39,52.54
+1027,Household,15.84,21.19
+1028,Personal Care,12.31,24.1
+1029,Beverages,20.67,30.79
+1030,Produce,9.14,12.09
+1031,Frozen,23.76,35.45
+1032,Frozen,28.26,35.9
+1033,Produce,18.85,29.35
+1034,Snacks,28.06,44.41
+1035,Dairy,46.01,60.73
+1036,Dairy,23.28,37.63
+1037,Bakery,38.12,61.71
+1038,Produce,16.67,27.42
+1039,Beverages,35.09,43.73
+1040,Dairy,19.78,32.35
+1041,Household,16.83,23.77
+1042,Personal Care,7.3,12.48
+1043,Snacks,13.7,21.08
+1044,Frozen,37.84,56.66
+1045,Beverages,43.61,65.44
+1046,Beverages,43.33,62.23
+1047,Produce,27.0,45.52
+1048,Frozen,22.44,33.85
+1049,Dairy,55.64,75.3
+1050,Household,5.67,7.73
+1051,Snacks,6.64,10.33
+1052,Produce,32.5,51.91
+1053,Beverages,8.25,13.62
+1054,Personal Care,42.65,66.06
+1055,Personal Care,12.22,15.3
+1056,Produce,30.49,49.07
+1057,Beverages,40.88,73.27
+1058,Produce,33.42,64.86
+1059,Frozen,34.12,61.94
+1060,Personal Care,8.85,12.18
+1061,Snacks,35.12,42.58
+1062,Personal Care,7.12,12.83
+1063,Personal Care,5.19,9.06
+1064,Household,30.0,37.31
+1065,Produce,50.93,66.83
+1066,Produce,49.38,93.7
+1067,Dairy,20.59,27.84
+1068,Beverages,12.8,20.88
+1069,Frozen,7.02,10.58
+1070,Frozen,34.23,55.07
+1071,Produce,41.5,59.99
+1072,Bakery,52.27,96.26
+1073,Frozen,19.69,25.7
+1074,Bakery,33.14,49.68
+1075,Personal Care,40.07,70.84
+1076,Dairy,23.21,42.73
+1077,Bakery,28.47,50.26
+1078,Beverages,44.3,53.46
+1079,Snacks,25.72,42.49
+1080,Household,4.05,5.57
+1081,Personal Care,18.91,33.44
+1082,Personal Care,25.55,45.54
+1083,Bakery,52.93,65.96
+1084,Produce,51.77,67.28
+1085,Dairy,52.03,65.43
+1086,Personal Care,12.45,24.13
+1087,Dairy,30.9,53.74
+1088,Frozen,48.51,78.95
+1089,Dairy,10.45,20.21
+1090,Bakery,31.94,50.23
+1091,Bakery,47.49,93.11
+1092,Produce,14.98,27.97
+1093,Personal Care,41.78,55.31
+1094,Beverages,55.58,72.63
+1095,Dairy,50.5,72.46
+1096,Bakery,52.73,96.91
+1097,Dairy,19.95,28.06
+1098,Bakery,10.81,19.88
+1099,Bakery,24.71,30.3
+1100,Produce,11.05,15.83
+1101,Snacks,13.49,17.8
+1102,Dairy,26.93,46.94
+1103,Snacks,4.25,6.3
+1104,Bakery,59.78,116.66
+1105,Snacks,18.86,27.88
+1106,Personal Care,53.58,103.43
+1107,Bakery,30.12,56.96
+1108,Snacks,13.68,21.56
+1109,Bakery,35.57,51.22
+1110,Snacks,58.11,85.74
+1111,Dairy,40.08,49.7
+1112,Household,22.31,35.36
+1113,Household,45.06,60.52
+1114,Frozen,48.92,87.03
+1115,Personal Care,7.55,12.39
+1116,Dairy,36.54,57.34
+1117,Beverages,4.3,7.15
+1118,Produce,39.52,51.6
+1119,Household,6.42,11.44
+1120,Dairy,22.85,39.53
+1121,Snacks,21.23,39.78
+1122,Personal Care,19.6,27.62
+1123,Snacks,52.99,68.55
+1124,Personal Care,17.69,28.88
+1125,Household,29.13,38.78
+1126,Beverages,31.39,46.88
+1127,Bakery,18.44,30.32
+1128,Dairy,54.69,97.42
+1129,Bakery,53.66,65.04
+1130,Beverages,30.33,55.59
+1131,Bakery,41.96,58.05
+1132,Dairy,10.91,15.4
+1133,Beverages,26.59,45.19
+1134,Snacks,18.93,36.2
+1135,Snacks,40.51,55.66
+1136,Bakery,36.53,66.75
+1137,Beverages,49.64,62.47
+1138,Household,59.01,72.76
+1139,Dairy,49.25,72.58
+1140,Personal Care,36.33,48.91
+1141,Household,56.54,86.48
+1142,Produce,3.87,7.09
+1143,Dairy,44.56,77.67
+1144,Dairy,48.26,87.65
+1145,Bakery,13.5,18.57
+1146,Household,43.1,54.03
+1147,Beverages,47.91,75.88
+1148,Personal Care,32.48,47.55
+1149,Snacks,45.58,77.9
+1150,Bakery,52.26,64.82
+1151,Household,47.62,60.66
+1152,Household,35.8,65.97
+1153,Personal Care,41.02,73.69
+1154,Dairy,17.04,29.9
+1155,Frozen,54.48,97.84
+1156,Dairy,27.25,50.69
+1157,Frozen,45.39,76.02
+1158,Snacks,5.95,10.87
+1159,Frozen,45.54,85.52
+1160,Bakery,13.48,21.11
+1161,Bakery,52.9,87.81
+1162,Beverages,24.74,45.2
+1163,Household,49.89,76.08
+1164,Snacks,15.24,26.48
+1165,Household,40.47,77.84
+1166,Produce,47.99,57.76
+1167,Personal Care,37.02,72.59
+1168,Personal Care,26.28,44.25
+1169,Personal Care,10.46,17.12
+1170,Snacks,22.52,42.24
+1171,Beverages,18.94,24.06
+1172,Frozen,12.86,24.58
+1173,Produce,40.34,74.46
+1174,Snacks,14.55,24.76
+1175,Produce,49.73,67.0
+1176,Frozen,21.29,28.12
+1177,Dairy,15.0,28.68
+1178,Produce,19.9,28.95
+1179,Bakery,51.69,102.07
+1180,Produce,32.58,39.11
+1181,Dairy,8.02,11.2
+1182,Frozen,44.72,77.86
+1183,Produce,9.83,17.72
+1184,Frozen,40.65,51.25
+1185,Household,27.76,54.58
+1186,Household,19.71,34.84
+1187,Produce,56.39,104.15
+1188,Beverages,54.62,87.31
+1189,Household,42.11,51.14
+1190,Snacks,34.33,53.49
+1191,Dairy,44.27,79.68
+1192,Beverages,57.0,90.4
+1193,Beverages,57.27,109.57
+1194,Dairy,12.88,24.92
+1195,Beverages,59.87,80.16
+1196,Frozen,38.38,53.48
+1197,Beverages,26.4,52.34
+1198,Snacks,48.68,84.76
+1199,Produce,30.59,60.56
+1200,Household,42.07,59.82
+1201,Dairy,50.34,80.37
+1202,Beverages,48.03,70.98
+1203,Dairy,13.65,25.2
+1204,Beverages,11.4,20.41
+1205,Dairy,41.52,79.97
+1206,Frozen,58.35,106.29
+1207,Household,57.8,78.01
+1208,Frozen,53.69,84.82
+1209,Household,55.83,85.0
+1210,Frozen,22.98,33.45
+1211,Personal Care,17.48,23.83
+1212,Personal Care,31.07,47.43
+1213,Dairy,47.16,68.47
+1214,Dairy,18.18,29.61
+1215,Produce,45.65,64.84
+1216,Household,43.6,66.12
+1217,Frozen,51.38,66.63
+1218,Personal Care,46.74,57.63
+1219,Frozen,22.51,43.94
+1220,Frozen,58.87,112.37
+1221,Snacks,45.72,79.66
+1222,Produce,50.4,89.18
+1223,Frozen,11.62,15.58
+1224,Snacks,46.93,71.13
+1225,Household,25.2,40.32
+1226,Household,22.28,30.05
+1227,Dairy,32.84,53.1
+1228,Frozen,9.75,14.34
+1229,Snacks,55.62,69.72
+1230,Beverages,51.41,89.16
+1231,Produce,25.41,42.15
+1232,Frozen,47.54,82.89
+1233,Dairy,10.77,18.71
+1234,Bakery,31.03,59.54
+1235,Beverages,45.09,83.72
+1236,Produce,52.96,69.11
+1237,Produce,37.52,53.28
+1238,Snacks,46.75,78.72
+1239,Frozen,37.25,71.64
+1240,Frozen,7.44,12.95
+1241,Snacks,22.86,40.22
+1242,Snacks,9.07,17.81
+1243,Bakery,2.2,3.75
+1244,Dairy,27.92,44.75
+1245,Personal Care,36.23,60.74
+1246,Beverages,4.3,8.01
+1247,Snacks,30.06,43.15
+1248,Household,57.95,94.14
+1249,Bakery,14.64,26.86
+1250,Bakery,18.34,36.3
+1251,Beverages,14.93,19.98
+1252,Frozen,26.59,33.25
+1253,Frozen,44.02,73.42
+1254,Produce,24.64,48.38
+1255,Produce,15.12,28.64
+1256,Beverages,48.64,95.78
+1257,Household,40.15,56.27
+1258,Personal Care,35.38,54.66
+1259,Personal Care,13.06,22.1
+1260,Snacks,25.37,36.18
+1261,Bakery,6.43,12.33
+1262,Beverages,27.44,37.27
+1263,Bakery,46.85,63.76
+1264,Frozen,45.36,88.84
+1265,Beverages,5.64,7.7
+1266,Beverages,50.46,86.45
+1267,Frozen,34.35,58.47
+1268,Household,59.51,85.97
+1269,Beverages,44.88,78.68
+1270,Produce,54.14,99.81
+1271,Personal Care,46.82,69.03
+1272,Dairy,23.1,44.06
+1273,Personal Care,59.45,114.7
+1274,Household,29.62,55.02
+1275,Dairy,51.3,83.24
+1276,Frozen,31.46,43.02
+1277,Frozen,40.07,78.14
+1278,Bakery,43.19,84.49
+1279,Produce,46.92,83.55
+1280,Dairy,49.09,91.95
+1281,Dairy,10.02,12.91
+1282,Produce,3.6,6.66
+1283,Snacks,28.9,35.68
+1284,Snacks,51.79,76.17
+1285,Personal Care,30.1,51.52
+1286,Bakery,2.43,3.31
+1287,Household,24.19,31.04
+1288,Dairy,56.8,88.16
+1289,Personal Care,46.18,76.48
+1290,Beverages,51.98,69.4
+1291,Bakery,43.58,68.67
+1292,Personal Care,37.14,48.09
+1293,Personal Care,36.75,45.94
+1294,Bakery,48.4,92.51
+1295,Beverages,24.75,45.3
+1296,Bakery,38.77,69.53
+1297,Beverages,16.07,30.96
+1298,Bakery,48.56,59.75
+1299,Beverages,25.31,49.43
+1300,Bakery,46.97,58.03
+1301,Produce,17.25,22.82
+1302,Beverages,29.77,58.5
+1303,Snacks,12.84,23.7
+1304,Dairy,37.72,55.02
+1305,Produce,55.15,66.28
+1306,Beverages,34.24,63.59
+1307,Snacks,42.94,74.25
+1308,Frozen,28.51,49.51
+1309,Bakery,3.4,6.34
+1310,Personal Care,14.11,24.93
+1311,Bakery,40.96,81.37
+1312,Snacks,33.67,49.9
+1313,Snacks,7.09,9.86
+1314,Snacks,7.21,10.23
+1315,Frozen,46.22,60.93
+1316,Household,46.59,56.17
+1317,Snacks,4.53,7.91
+1318,Bakery,32.17,50.33
+1319,Produce,55.58,92.24
+1320,Bakery,55.15,98.51
+1321,Snacks,54.95,102.74
+1322,Beverages,40.87,53.46
+1323,Produce,48.47,60.29
+1324,Frozen,27.62,48.75
+1325,Frozen,47.69,89.52
+1326,Beverages,20.82,26.56
+1327,Personal Care,11.45,22.41
+1328,Personal Care,46.22,86.41
+1329,Household,17.9,25.06
+1330,Produce,33.19,48.87
+1331,Household,55.41,81.06
+1332,Bakery,53.61,98.41
+1333,Dairy,8.08,15.03
+1334,Household,26.65,39.16
+1335,Snacks,33.16,65.41
+1336,Dairy,14.27,17.73
+1337,Bakery,56.4,86.07
+1338,Snacks,39.57,54.39
+1339,Beverages,43.43,67.1
+1340,Snacks,59.4,79.66
+1341,Personal Care,37.63,50.17
+1342,Frozen,45.68,63.9
+1343,Frozen,57.71,73.49
+1344,Bakery,39.19,66.41
+1345,Dairy,40.05,67.22
+1346,Produce,19.63,24.56
+1347,Snacks,33.07,41.63
+1348,Snacks,10.25,13.23
+1349,Personal Care,39.61,63.7
+1350,Frozen,55.4,86.43
+1351,Snacks,16.79,25.45
+1352,Dairy,27.81,49.58
+1353,Snacks,51.96,81.5
+1354,Household,50.27,61.56
+1355,Bakery,8.18,11.18
+1356,Household,40.9,58.16
+1357,Beverages,51.05,64.23
+1358,Snacks,11.17,19.3
+1359,Frozen,40.35,54.25
+1360,Dairy,29.92,55.94
+1361,Beverages,24.21,41.68
+1362,Bakery,5.6,8.05
+1363,Frozen,51.45,67.09
+1364,Household,23.09,41.06
+1365,Dairy,23.42,41.92
+1366,Household,23.24,37.61
+1367,Snacks,52.6,101.38
+1368,Dairy,18.55,27.91
+1369,Beverages,14.99,20.31
+1370,Bakery,46.23,87.03
+1371,Bakery,39.2,61.84
+1372,Beverages,4.93,8.53
+1373,Household,15.62,19.11
+1374,Personal Care,30.27,38.98
+1375,Personal Care,7.44,9.63
+1376,Personal Care,55.54,107.07
+1377,Produce,27.54,35.65
+1378,Snacks,17.43,27.11
+1379,Bakery,56.32,92.58
+1380,Snacks,31.54,50.06
+1381,Bakery,34.65,65.7
+1382,Produce,8.38,16.38
+1383,Beverages,15.9,21.25
+1384,Household,14.32,18.14
+1385,Frozen,29.17,57.08
+1386,Dairy,6.32,9.87
+1387,Household,7.68,10.94
+1388,Household,5.95,10.49
+1389,Personal Care,29.93,40.23
+1390,Beverages,38.4,71.01
+1391,Beverages,39.33,68.81
+1392,Beverages,33.15,45.99
+1393,Personal Care,40.54,53.17
+1394,Household,10.41,19.18
+1395,Household,44.94,84.75
+1396,Household,40.07,68.95
+1397,Bakery,2.91,4.56
+1398,Snacks,28.06,52.75
+1399,Frozen,27.46,36.04
+1400,Bakery,19.66,28.53
+1401,Bakery,56.49,85.95
+1402,Dairy,2.73,5.35
+1403,Bakery,5.82,8.72
+1404,Personal Care,41.01,56.18
+1405,Bakery,13.16,20.74
+1406,Frozen,59.98,93.88
+1407,Bakery,58.55,105.66
+1408,Beverages,25.6,37.75
+1409,Beverages,34.98,63.52
+1410,Bakery,50.03,60.04
+1411,Frozen,37.19,58.76
+1412,Produce,9.99,13.91
+1413,Snacks,17.89,27.42
+1414,Dairy,59.91,78.37
+1415,Household,53.42,66.54
+1416,Bakery,26.52,33.53
+1417,Personal Care,47.82,67.07
+1418,Bakery,51.89,101.99
+1419,Frozen,58.13,102.87
+1420,Snacks,4.99,9.64
+1421,Snacks,58.11,111.76
+1422,Snacks,18.76,37.02
+1423,Dairy,26.37,42.81
+1424,Frozen,48.81,84.09
+1425,Snacks,27.88,44.6
+1426,Household,54.13,106.63
+1427,Bakery,27.29,45.68
+1428,Frozen,35.08,47.19
+1429,Frozen,39.32,60.15
+1430,Frozen,41.29,51.97
+1431,Beverages,38.21,60.27
+1432,Household,48.38,58.43
+1433,Personal Care,21.72,39.28
+1434,Dairy,29.0,42.32
+1435,Bakery,58.74,74.67
+1436,Bakery,33.47,50.9
+1437,Dairy,54.21,75.13
+1438,Household,24.05,38.37
+1439,Household,9.4,12.95
+1440,Bakery,52.98,68.37
+1441,Dairy,53.3,90.23
+1442,Snacks,29.24,45.71
+1443,Household,35.46,52.64
+1444,Produce,20.24,37.43
+1445,Beverages,41.23,75.24
+1446,Produce,23.44,46.18
+1447,Frozen,50.46,86.47
+1448,Bakery,42.88,84.6
+1449,Bakery,23.41,44.02
+1450,Frozen,11.48,14.37
+1451,Personal Care,51.28,97.44
+1452,Beverages,13.5,16.36
+1453,Produce,44.09,62.52
+1454,Snacks,48.31,90.32
+1455,Snacks,42.36,50.97
+1456,Bakery,12.12,23.28
+1457,Bakery,3.12,4.03
+1458,Snacks,58.26,76.84
+1459,Household,6.25,9.24
+1460,Frozen,26.21,41.49
+1461,Frozen,21.31,41.38
+1462,Frozen,11.42,14.54
+1463,Beverages,42.4,59.8
+1464,Household,21.82,34.77
+1465,Bakery,37.1,73.89
+1466,Beverages,45.57,85.27
+1467,Produce,24.34,43.17
+1468,Bakery,20.06,25.23
+1469,Personal Care,7.46,12.45
+1470,Bakery,48.05,75.04
+1471,Personal Care,47.89,66.33
+1472,Snacks,49.84,78.62
+1473,Produce,10.02,13.57
+1474,Bakery,8.26,14.1
+1475,Bakery,45.55,72.93
+1476,Household,44.02,53.91
+1477,Beverages,14.82,21.23
+1478,Personal Care,37.65,72.34
+1479,Bakery,59.2,118.18
+1480,Frozen,9.61,12.01
+1481,Personal Care,46.74,87.01
+1482,Frozen,25.0,40.46
+1483,Frozen,5.23,8.82
+1484,Snacks,19.02,27.77
+1485,Bakery,10.77,20.95
+1486,Bakery,28.78,39.09
+1487,Snacks,47.53,84.35
+1488,Household,41.77,66.05
+1489,Frozen,46.97,60.36
+1490,Snacks,38.18,59.17
+1491,Snacks,16.65,28.88
+1492,Bakery,28.08,52.84
+1493,Produce,46.68,69.9
+1494,Personal Care,47.23,84.06
+1495,Household,37.89,48.65
+1496,Personal Care,7.1,13.76
+1497,Dairy,4.17,8.28
+1498,Dairy,5.67,9.91
+1499,Beverages,19.4,24.34
+1500,Household,27.37,34.72
+1501,Produce,42.45,75.25
+1502,Beverages,3.85,7.42
+1503,Dairy,32.74,57.63
+1504,Household,11.51,18.71
+1505,Produce,11.81,15.81
+1506,Produce,43.06,64.16
+1507,Bakery,28.57,46.9
+1508,Snacks,17.05,30.56
+1509,Produce,29.42,57.81
+1510,Frozen,46.01,69.68
+1511,Bakery,44.57,58.11
+1512,Bakery,55.1,87.77
+1513,Household,48.53,59.31
+1514,Personal Care,49.22,86.44
+1515,Household,20.18,35.99
+1516,Household,41.59,71.86
+1517,Beverages,49.66,93.88
+1518,Household,2.6,4.71
+1519,Beverages,54.17,106.26
+1520,Household,15.22,22.13
+1521,Frozen,57.08,82.27
+1522,Household,24.88,35.51
+1523,Bakery,2.73,4.75
+1524,Bakery,49.38,84.7
+1525,Beverages,59.46,105.98
+1526,Dairy,49.15,68.94
+1527,Household,24.08,45.07
+1528,Dairy,15.91,28.17
+1529,Beverages,22.03,41.31
+1530,Household,52.97,69.46
+1531,Beverages,48.03,90.01
+1532,Personal Care,56.88,89.65
+1533,Personal Care,47.37,89.81
+1534,Bakery,44.31,65.97
+1535,Snacks,7.82,11.43
+1536,Beverages,54.38,66.37
+1537,Household,6.1,7.65
+1538,Beverages,13.51,21.21
+1539,Produce,20.05,31.71
+1540,Produce,19.97,34.07
+1541,Personal Care,20.47,30.21
+1542,Frozen,44.87,66.49
+1543,Snacks,36.79,73.51
+1544,Snacks,30.07,46.1
+1545,Bakery,14.06,20.95
+1546,Household,55.8,96.37
+1547,Snacks,39.98,66.15
+1548,Personal Care,36.27,56.07
+1549,Dairy,26.9,34.27
+1550,Frozen,49.58,90.79
+1551,Household,7.89,14.48
+1552,Beverages,14.7,28.03
+1553,Produce,11.15,19.06
+1554,Snacks,55.93,76.14
+1555,Frozen,59.51,95.96
+1556,Dairy,30.49,54.94
+1557,Beverages,40.77,53.6
+1558,Produce,60.0,98.93
+1559,Dairy,12.63,24.35
+1560,Snacks,52.37,78.0
+1561,Beverages,14.03,17.1
+1562,Bakery,31.63,61.56
+1563,Bakery,10.33,17.61
+1564,Beverages,26.58,44.7
+1565,Frozen,37.04,51.38
+1566,Bakery,31.77,50.03
+1567,Snacks,46.88,86.36
+1568,Dairy,45.4,63.09
+1569,Frozen,15.46,28.72
+1570,Bakery,36.97,71.1
+1571,Bakery,58.61,104.16
+1572,Snacks,45.45,80.43
+1573,Bakery,17.81,33.32
+1574,Beverages,30.33,36.44
+1575,Snacks,52.38,100.47
+1576,Produce,10.24,16.06
+1577,Bakery,59.86,87.92
+1578,Bakery,59.8,82.65
+1579,Produce,22.68,35.13
+1580,Frozen,11.39,15.66
+1581,Snacks,10.27,17.17
+1582,Snacks,31.26,42.1
+1583,Personal Care,50.72,92.05
+1584,Personal Care,29.44,41.85
+1585,Bakery,29.37,47.2
+1586,Dairy,15.51,22.98
+1587,Produce,58.09,88.45
+1588,Household,44.57,65.45
+1589,Produce,39.44,62.01
+1590,Beverages,4.42,8.08
+1591,Personal Care,22.56,38.44
+1592,Produce,57.22,97.03
+1593,Dairy,34.14,59.07
+1594,Beverages,57.06,75.11
+1595,Household,41.32,62.77
+1596,Household,36.22,63.09
+1597,Household,48.46,64.22
+1598,Produce,39.75,56.78
+1599,Dairy,54.06,99.49
+1600,Beverages,37.75,69.66
+1601,Personal Care,30.75,45.84
+1602,Beverages,22.29,36.23
+1603,Household,39.07,61.79
+1604,Household,16.76,28.29
+1605,Frozen,2.97,5.46
+1606,Snacks,23.05,44.5
+1607,Beverages,18.0,26.39
+1608,Personal Care,11.29,19.78
+1609,Beverages,6.39,8.74
+1610,Dairy,10.52,14.54
+1611,Beverages,27.32,35.45
+1612,Snacks,56.92,93.39
+1613,Snacks,46.83,61.76
+1614,Bakery,4.31,6.89
+1615,Produce,26.49,45.13
+1616,Dairy,36.63,72.58
+1617,Beverages,6.88,9.14
+1618,Beverages,3.26,5.76
+1619,Dairy,8.52,11.33
+1620,Dairy,13.45,19.99
+1621,Bakery,22.92,45.46
+1622,Produce,20.87,31.87
+1623,Personal Care,15.49,30.67
+1624,Dairy,11.6,22.21
+1625,Household,38.31,66.05
+1626,Personal Care,32.75,57.13
+1627,Beverages,47.42,77.67
+1628,Beverages,28.19,53.7
+1629,Household,40.29,64.83
+1630,Dairy,51.85,100.17
+1631,Dairy,30.81,53.94
+1632,Dairy,42.06,50.63
+1633,Beverages,50.98,75.94
+1634,Bakery,35.05,62.48
+1635,Produce,21.36,33.83
+1636,Dairy,20.35,30.55
+1637,Frozen,59.62,81.61
+1638,Beverages,59.47,104.1
+1639,Household,39.26,64.7
+1640,Household,11.19,21.11
+1641,Personal Care,57.22,107.96
+1642,Snacks,30.54,56.89
+1643,Beverages,10.65,19.26
+1644,Produce,54.62,91.17
+1645,Produce,42.89,51.62
+1646,Dairy,7.97,11.33
+1647,Snacks,37.16,57.53
+1648,Frozen,6.72,10.48
+1649,Household,7.66,12.22
+1650,Frozen,14.44,24.89
+1651,Frozen,47.36,64.63
+1652,Produce,46.59,81.72
+1653,Frozen,28.46,53.81
+1654,Produce,41.64,73.2
+1655,Snacks,4.69,8.77
+1656,Frozen,5.1,10.15
+1657,Dairy,22.39,42.12
+1658,Bakery,17.06,27.38
+1659,Personal Care,29.72,37.73
+1660,Beverages,14.49,24.35
+1661,Snacks,44.29,65.31
+1662,Dairy,57.49,98.66
+1663,Snacks,39.41,73.72
+1664,Frozen,21.51,28.63
+1665,Bakery,29.49,53.93
+1666,Frozen,17.05,21.29
+1667,Dairy,54.57,92.24
+1668,Snacks,38.59,62.76
+1669,Personal Care,14.31,21.94
+1670,Personal Care,48.72,85.05
+1671,Produce,15.46,24.28
+1672,Bakery,55.55,73.79
+1673,Snacks,34.14,52.03
+1674,Dairy,55.07,105.69
+1675,Personal Care,30.6,43.28
+1676,Household,7.74,12.37
+1677,Household,11.4,21.76
+1678,Household,24.02,30.98
+1679,Dairy,30.92,44.09
+1680,Household,24.33,39.85
+1681,Household,46.69,67.9
+1682,Personal Care,9.19,13.12
+1683,Household,34.66,67.88
+1684,Household,29.88,58.08
+1685,Bakery,33.51,63.34
+1686,Dairy,22.9,38.56
+1687,Frozen,19.0,33.59
+1688,Snacks,26.39,36.09
+1689,Snacks,13.93,22.37
+1690,Snacks,45.69,63.5
+1691,Snacks,41.69,80.93
+1692,Bakery,41.34,73.19
+1693,Beverages,17.46,34.57
+1694,Snacks,58.21,84.43
+1695,Beverages,31.88,47.18
+1696,Dairy,2.76,3.76
+1697,Dairy,54.56,75.26
+1698,Bakery,56.06,79.27
+1699,Household,41.14,62.01
+1700,Beverages,5.9,11.0
+1701,Produce,8.41,15.11
+1702,Frozen,31.84,49.11
+1703,Beverages,57.31,114.34
+1704,Produce,38.15,65.72
+1705,Dairy,23.56,35.16
+1706,Dairy,22.82,43.82
+1707,Frozen,33.52,44.58
+1708,Dairy,10.66,17.81
+1709,Snacks,11.28,18.07
+1710,Snacks,34.51,52.81
+1711,Beverages,44.19,61.38
+1712,Dairy,15.73,28.4
+1713,Bakery,53.93,80.14
+1714,Snacks,50.42,84.26
+1715,Produce,21.46,38.89
+1716,Bakery,58.58,116.81
+1717,Beverages,28.25,45.27
+1718,Beverages,37.03,49.8
+1719,Snacks,17.07,31.05
+1720,Snacks,21.65,27.35
+1721,Frozen,6.3,11.49
+1722,Personal Care,16.17,21.41
+1723,Frozen,27.05,52.62
+1724,Snacks,42.96,66.29
+1725,Dairy,36.05,57.62
+1726,Dairy,49.49,90.67
+1727,Frozen,31.4,46.1
+1728,Snacks,32.21,57.93
+1729,Bakery,31.62,42.2
+1730,Bakery,27.13,46.91
+1731,Snacks,15.93,25.07
+1732,Bakery,40.39,51.73
+1733,Produce,7.09,12.41
+1734,Household,21.43,30.28
+1735,Household,14.91,22.67
+1736,Produce,6.01,7.62
+1737,Beverages,33.49,66.73
+1738,Snacks,24.18,42.18
+1739,Frozen,13.25,23.0
+1740,Personal Care,34.64,53.98
+1741,Snacks,56.17,104.01
+1742,Personal Care,9.36,11.73
+1743,Produce,9.37,16.38
+1744,Dairy,35.53,70.39
+1745,Beverages,47.79,87.57
+1746,Snacks,8.55,12.46
+1747,Beverages,14.82,29.03
+1748,Frozen,22.18,38.96
+1749,Household,25.59,47.65
+1750,Dairy,58.73,91.05
+1751,Beverages,9.66,15.8
+1752,Produce,52.15,89.14
+1753,Dairy,40.22,56.65
+1754,Snacks,8.68,13.06
+1755,Bakery,2.21,2.73
+1756,Household,6.88,9.94
+1757,Household,51.11,91.95
+1758,Personal Care,58.22,99.86
+1759,Bakery,20.05,27.33
+1760,Household,9.33,13.84
+1761,Bakery,37.93,65.53
+1762,Dairy,31.23,47.94
+1763,Dairy,4.53,6.5
+1764,Snacks,46.66,82.26
+1765,Household,32.01,44.79
+1766,Produce,33.55,48.13
+1767,Beverages,49.48,78.48
+1768,Bakery,44.3,83.71
+1769,Frozen,28.39,36.03
+1770,Household,44.54,60.84
+1771,Bakery,59.03,91.24
+1772,Frozen,38.84,68.16
+1773,Frozen,33.81,49.82
+1774,Produce,3.88,7.64
+1775,Frozen,48.66,67.32
+1776,Household,29.39,52.19
+1777,Dairy,30.28,45.28
+1778,Frozen,53.99,66.66
+1779,Dairy,53.93,101.34
+1780,Personal Care,18.74,24.82
+1781,Dairy,58.5,78.78
+1782,Dairy,22.43,28.0
+1783,Bakery,21.23,39.94
+1784,Beverages,26.78,36.26
+1785,Household,31.54,40.66
+1786,Frozen,27.49,41.73
+1787,Frozen,59.23,89.65
+1788,Dairy,24.0,29.01
+1789,Household,8.62,12.56
+1790,Dairy,41.42,70.4
+1791,Bakery,14.0,23.29
+1792,Bakery,19.04,25.9
+1793,Bakery,15.53,25.92
+1794,Household,9.03,14.97
+1795,Snacks,31.58,40.99
+1796,Bakery,27.55,54.95
+1797,Household,2.89,4.0
+1798,Household,59.21,82.44
+1799,Produce,16.13,26.93
+1800,Produce,38.75,62.61
+1801,Frozen,17.61,32.07
+1802,Personal Care,29.13,35.27
+1803,Produce,28.79,48.34
+1804,Dairy,47.12,88.29
+1805,Produce,11.27,22.14
+1806,Frozen,46.01,82.74
+1807,Snacks,20.02,37.98
+1808,Beverages,5.91,11.37
+1809,Dairy,23.4,36.18
+1810,Personal Care,18.78,33.08
+1811,Household,58.95,78.72
+1812,Personal Care,8.61,12.33
+1813,Bakery,14.79,22.33
+1814,Household,36.91,60.81
+1815,Frozen,18.47,23.41
+1816,Household,50.91,76.0
+1817,Household,9.98,17.36
+1818,Snacks,21.64,33.19
+1819,Household,14.89,17.91
+1820,Bakery,40.56,63.15
+1821,Produce,16.99,22.73
+1822,Personal Care,11.55,22.33
+1823,Beverages,3.67,5.05
+1824,Household,41.57,72.36
+1825,Personal Care,33.66,61.96
+1826,Dairy,5.91,7.92
+1827,Dairy,17.01,29.18
+1828,Dairy,42.72,77.59
+1829,Household,18.84,30.66
+1830,Personal Care,44.5,57.36
+1831,Frozen,19.9,34.68
+1832,Bakery,40.97,73.52
+1833,Household,34.87,62.85
+1834,Household,30.63,50.23
+1835,Dairy,49.69,85.58
+1836,Snacks,6.69,11.37
+1837,Dairy,17.52,32.88
+1838,Dairy,54.53,106.86
+1839,Beverages,2.91,5.56
+1840,Personal Care,7.04,13.1
+1841,Personal Care,32.9,62.18
+1842,Bakery,20.21,34.51
+1843,Beverages,9.64,14.44
+1844,Snacks,3.3,5.86
+1845,Beverages,11.26,16.15
+1846,Frozen,19.44,34.75
+1847,Snacks,52.46,104.49
+1848,Personal Care,36.97,73.07
+1849,Beverages,49.02,87.54
+1850,Bakery,19.86,38.91
+1851,Personal Care,37.52,70.9
+1852,Dairy,24.15,39.47
+1853,Produce,47.59,74.47
+1854,Bakery,56.48,77.74
+1855,Frozen,45.2,84.3
+1856,Bakery,9.73,14.05
+1857,Beverages,15.0,20.61
+1858,Household,28.77,42.53
+1859,Personal Care,3.54,6.38
+1860,Household,25.27,33.56
+1861,Personal Care,44.47,76.77
+1862,Produce,11.07,20.05
+1863,Produce,55.28,87.2
+1864,Bakery,47.65,64.72
+1865,Bakery,22.49,41.61
+1866,Snacks,17.29,25.57
+1867,Snacks,29.98,45.02
+1868,Bakery,20.31,37.49
+1869,Frozen,16.73,31.19
+1870,Dairy,42.64,56.96
+1871,Snacks,47.61,82.96
+1872,Personal Care,27.33,47.52
+1873,Produce,12.97,16.61
+1874,Produce,11.99,22.99
+1875,Household,14.83,28.08
+1876,Produce,18.1,23.16
+1877,Bakery,11.35,18.94
+1878,Bakery,27.5,44.08
+1879,Snacks,2.97,5.77
+1880,Bakery,27.77,53.09
+1881,Snacks,33.2,45.62
+1882,Frozen,38.56,64.61
+1883,Dairy,39.6,59.29
+1884,Personal Care,48.8,96.85
+1885,Dairy,42.09,55.67
+1886,Snacks,5.47,9.07
+1887,Beverages,13.45,18.35
+1888,Frozen,16.66,21.14
+1889,Personal Care,12.58,15.1
+1890,Personal Care,14.94,20.83
+1891,Produce,8.62,11.88
+1892,Beverages,8.64,15.55
+1893,Personal Care,42.44,77.42
+1894,Bakery,14.12,17.36
+1895,Produce,25.88,50.33
+1896,Produce,14.98,22.98
+1897,Personal Care,41.25,68.8
+1898,Personal Care,17.92,33.37
+1899,Produce,14.24,17.65
+1900,Bakery,28.76,47.74
+1901,Bakery,59.72,95.96
+1902,Snacks,6.63,9.91
+1903,Produce,58.74,71.11
+1904,Personal Care,38.66,72.47
+1905,Personal Care,49.43,93.91
+1906,Produce,43.34,77.26
+1907,Bakery,10.28,15.57
+1908,Beverages,40.15,48.88
+1909,Personal Care,43.77,70.73
+1910,Bakery,21.53,28.04
+1911,Snacks,18.64,34.16
+1912,Frozen,48.14,84.28
+1913,Dairy,8.7,15.53
+1914,Snacks,59.74,85.98
+1915,Household,42.88,72.59
+1916,Produce,53.92,69.79
+1917,Personal Care,19.41,38.31
+1918,Produce,8.19,15.89
+1919,Produce,58.19,84.81
+1920,Produce,24.8,44.75
+1921,Frozen,50.38,84.09
+1922,Personal Care,17.23,33.42
+1923,Dairy,27.55,49.87
+1924,Frozen,22.96,38.63
+1925,Dairy,26.67,52.03
+1926,Bakery,9.12,11.07
+1927,Snacks,3.96,6.16
+1928,Frozen,54.83,85.09
+1929,Snacks,7.94,14.61
+1930,Produce,19.49,34.55
+1931,Beverages,49.02,73.1
+1932,Personal Care,7.15,8.73
+1933,Bakery,39.02,72.27
+1934,Bakery,37.05,46.55
+1935,Frozen,49.63,76.11
+1936,Frozen,35.99,52.19
+1937,Beverages,34.67,68.69
+1938,Produce,19.71,24.57
+1939,Snacks,7.83,9.8
+1940,Bakery,36.08,64.11
+1941,Frozen,41.3,59.12
+1942,Produce,3.24,5.07
+1943,Household,19.35,27.47
+1944,Snacks,7.46,12.03
+1945,Household,15.27,19.73
+1946,Frozen,43.73,65.56
+1947,Produce,55.0,88.57
+1948,Bakery,59.43,116.16
+1949,Frozen,56.88,107.23
+1950,Bakery,9.82,16.09
+1951,Dairy,48.96,80.61
+1952,Snacks,16.93,29.84
+1953,Household,17.03,28.83
+1954,Bakery,25.15,33.68
+1955,Snacks,19.42,35.75
+1956,Dairy,29.59,50.88
+1957,Produce,4.5,6.09
+1958,Produce,24.68,38.0
+1959,Household,40.66,67.06
+1960,Frozen,25.34,41.95
+1961,Produce,12.9,25.28
+1962,Household,59.57,93.67
+1963,Snacks,15.96,28.64
+1964,Dairy,50.34,95.82
+1965,Frozen,53.74,84.23
+1966,Household,20.12,30.07
+1967,Dairy,50.99,88.5
+1968,Dairy,7.14,13.66
+1969,Bakery,29.75,56.28
+1970,Dairy,10.32,16.93
+1971,Household,58.28,83.39
+1972,Snacks,17.51,26.54
+1973,Beverages,57.05,78.5
+1974,Personal Care,2.73,5.16
+1975,Produce,47.61,60.71
+1976,Bakery,25.38,35.34
+1977,Snacks,28.8,44.23
+1978,Snacks,16.28,23.27
+1979,Beverages,23.59,46.98
+1980,Snacks,46.35,77.53
+1981,Personal Care,33.89,62.71
+1982,Dairy,53.91,84.65
+1983,Household,25.15,34.03
+1984,Household,36.75,71.2
+1985,Frozen,34.87,50.94
+1986,Household,31.4,38.64
+1987,Frozen,42.97,83.58
+1988,Frozen,40.43,78.83
+1989,Personal Care,28.07,44.17
+1990,Household,55.36,96.93
+1991,Dairy,48.92,68.42
+1992,Dairy,14.15,19.35
+1993,Household,12.91,18.93
+1994,Personal Care,29.96,37.07
+1995,Dairy,49.19,61.31
+1996,Personal Care,6.41,10.01
+1997,Beverages,53.26,95.58
+1998,Snacks,25.99,48.86
+1999,Beverages,36.0,50.05
+2000,Frozen,38.56,59.1
+2001,Beverages,39.44,63.27
+2002,Household,4.16,7.61
+2003,Produce,13.75,20.19
+2004,Beverages,3.56,6.67
+2005,Produce,51.8,82.46
+2006,Personal Care,58.03,108.49
+2007,Produce,35.66,43.15
+2008,Produce,38.43,58.7
+2009,Snacks,30.98,50.24
+2010,Snacks,30.53,46.51
+2011,Snacks,30.89,47.75
+2012,Beverages,8.72,14.64
+2013,Frozen,4.65,8.85
+2014,Frozen,40.77,49.02
+2015,Personal Care,53.92,75.38
+2016,Personal Care,23.98,34.45
+2017,Beverages,21.25,34.73
+2018,Produce,54.98,90.87
+2019,Beverages,26.97,51.41
+2020,Dairy,38.15,60.37
+2021,Beverages,42.89,83.96
+2022,Beverages,10.57,18.69
+2023,Beverages,46.38,64.72
+2024,Dairy,48.42,67.33
+2025,Produce,50.56,90.83
+2026,Household,37.64,49.44
+2027,Snacks,16.34,26.35
+2028,Produce,57.2,75.67
+2029,Personal Care,12.15,20.01
+2030,Frozen,56.26,68.35
+2031,Frozen,48.17,59.82
+2032,Snacks,11.46,21.46
+2033,Produce,50.45,88.05
+2034,Snacks,20.93,26.31
+2035,Produce,9.76,14.08
+2036,Beverages,35.66,46.27
+2037,Personal Care,31.42,41.3
+2038,Snacks,14.57,28.44
+2039,Frozen,15.29,18.36
+2040,Frozen,7.66,13.89
+2041,Personal Care,38.76,72.33
+2042,Household,58.72,76.54
+2043,Dairy,20.19,35.27
+2044,Dairy,51.23,84.71
+2045,Frozen,48.74,82.07
+2046,Dairy,9.85,18.59
+2047,Dairy,16.05,28.21
+2048,Snacks,13.7,19.8
+2049,Beverages,19.77,25.28
+2050,Frozen,55.36,96.47
+2051,Dairy,27.68,35.27
+2052,Produce,53.03,70.5
+2053,Snacks,56.1,67.62
+2054,Produce,6.84,9.56
+2055,Beverages,52.67,80.45
+2056,Personal Care,8.77,13.31
+2057,Bakery,16.04,29.37
+2058,Household,47.49,77.19
+2059,Dairy,52.85,66.25
+2060,Produce,18.37,32.91
+2061,Bakery,27.33,42.51
+2062,Bakery,52.11,89.15
+2063,Personal Care,19.61,33.3
+2064,Snacks,56.48,88.09
+2065,Personal Care,52.03,73.11
+2066,Frozen,24.91,34.51
+2067,Dairy,31.65,42.81
+2068,Beverages,29.91,45.04
+2069,Household,23.81,30.92
+2070,Snacks,55.55,95.99
+2071,Frozen,25.79,33.59
+2072,Household,27.87,43.88
+2073,Personal Care,37.5,63.64
+2074,Dairy,55.42,94.89
+2075,Beverages,25.97,51.75
+2076,Beverages,17.93,29.21
+2077,Personal Care,23.7,44.15
+2078,Bakery,26.77,32.56
+2079,Produce,44.25,77.81
+2080,Snacks,7.16,14.19
+2081,Bakery,19.99,27.23
+2082,Household,35.44,67.77
+2083,Personal Care,38.73,57.8
+2084,Snacks,15.1,21.85
+2085,Snacks,35.83,55.82
+2086,Produce,40.35,66.83
+2087,Dairy,15.91,27.07
+2088,Produce,21.11,31.84
+2089,Personal Care,44.42,54.62
+2090,Personal Care,34.66,47.33
+2091,Beverages,49.17,61.22
+2092,Frozen,47.38,90.56
+2093,Bakery,30.91,44.48
+2094,Produce,32.91,40.61
+2095,Snacks,12.02,16.42
+2096,Snacks,24.06,46.56
+2097,Frozen,22.97,30.17
+2098,Household,39.95,55.11
+2099,Beverages,6.57,9.59
+2100,Produce,38.28,54.49
+2101,Personal Care,59.1,83.54
+2102,Personal Care,12.52,23.19
+2103,Personal Care,56.86,109.21
+2104,Dairy,36.56,63.0
+2105,Produce,46.23,57.89
+2106,Frozen,58.48,101.62
+2107,Bakery,39.05,49.99
+2108,Household,24.26,41.13
+2109,Household,2.75,4.28
+2110,Produce,47.39,84.12
+2111,Frozen,30.95,51.32
+2112,Bakery,19.32,34.36
+2113,Household,34.54,54.65
+2114,Household,49.3,98.03
+2115,Produce,6.81,12.89
+2116,Beverages,36.17,63.44
+2117,Household,30.88,47.81
+2118,Bakery,30.38,37.35
+2119,Bakery,20.92,38.12
+2120,Frozen,18.94,33.16
+2121,Dairy,38.91,60.49
+2122,Bakery,18.53,29.53
+2123,Dairy,44.27,60.13
+2124,Frozen,25.09,30.56
+2125,Frozen,22.21,39.61
+2126,Dairy,12.03,21.48
+2127,Snacks,23.66,39.54
+2128,Snacks,19.6,35.44
+2129,Produce,17.66,33.68
+2130,Frozen,46.36,80.8
+2131,Household,16.79,32.9
+2132,Beverages,14.89,20.6
+2133,Bakery,48.26,68.06
+2134,Household,3.39,6.33
+2135,Frozen,18.35,29.55
+2136,Frozen,9.97,14.88
+2137,Household,21.85,35.1
+2138,Produce,16.5,27.43
+2139,Personal Care,30.93,46.17
+2140,Beverages,21.92,42.4
+2141,Frozen,34.58,54.65
+2142,Household,54.91,76.62
+2143,Frozen,37.28,47.68
+2144,Bakery,53.45,65.58
+2145,Bakery,9.58,16.71
+2146,Personal Care,22.33,35.7
+2147,Beverages,13.15,22.37
+2148,Produce,32.03,50.64
+2149,Beverages,43.24,53.31
+2150,Frozen,22.26,35.36
+2151,Dairy,57.31,97.72
+2152,Dairy,51.94,67.59
+2153,Bakery,35.79,52.52
+2154,Snacks,56.07,82.44
+2155,Produce,14.02,25.5
+2156,Beverages,58.05,111.04
+2157,Bakery,13.54,21.69
+2158,Snacks,41.97,65.82
+2159,Bakery,36.85,47.17
+2160,Dairy,7.94,14.51
+2161,Household,22.98,29.01
+2162,Snacks,45.54,56.23
+2163,Produce,48.72,76.51
+2164,Frozen,49.12,70.78
+2165,Beverages,12.88,17.29
+2166,Bakery,51.83,90.28
+2167,Produce,12.92,23.02
+2168,Snacks,57.49,72.78
+2169,Beverages,37.14,45.04
+2170,Personal Care,27.44,45.99
+2171,Frozen,17.96,21.97
+2172,Frozen,32.64,46.24
+2173,Personal Care,59.7,106.97
+2174,Bakery,16.1,19.68
+2175,Frozen,9.61,14.71
+2176,Beverages,27.22,47.85
+2177,Snacks,30.91,51.55
+2178,Beverages,25.5,33.38
+2179,Personal Care,12.15,22.14
+2180,Produce,48.52,63.33
+2181,Produce,18.12,22.98
+2182,Snacks,28.67,49.25
+2183,Snacks,53.62,86.28
+2184,Dairy,59.36,81.45
+2185,Beverages,7.35,10.18
+2186,Bakery,9.19,14.1
+2187,Beverages,7.37,11.66
+2188,Bakery,46.0,66.3
+2189,Bakery,10.31,17.99
+2190,Personal Care,46.98,62.68
+2191,Household,34.22,46.78
+2192,Household,58.72,76.02
+2193,Bakery,27.57,35.67
+2194,Household,39.59,72.2
+2195,Dairy,55.42,95.25
+2196,Frozen,36.15,57.66
+2197,Produce,35.21,45.89
+2198,Produce,38.44,48.19
+2199,Bakery,34.54,51.44
+2200,Produce,10.55,14.86
+2201,Frozen,58.37,74.26
+2202,Beverages,20.75,26.79
+2203,Personal Care,28.04,46.92
+2204,Household,4.14,6.84
+2205,Dairy,52.68,102.79
+2206,Frozen,52.47,91.24
+2207,Beverages,54.7,75.93
+2208,Bakery,28.0,52.09
+2209,Personal Care,27.77,35.92
+2210,Dairy,48.3,91.33
+2211,Household,8.63,14.46
+2212,Personal Care,55.07,108.74
+2213,Produce,44.45,55.78
+2214,Personal Care,40.61,64.11
+2215,Dairy,7.78,13.0
+2216,Produce,25.72,41.22
+2217,Snacks,36.08,55.98
+2218,Bakery,35.23,51.43
+2219,Personal Care,37.49,70.33
+2220,Household,58.08,103.46
+2221,Snacks,20.99,35.36
+2222,Snacks,16.52,32.2
+2223,Dairy,39.01,57.5
+2224,Beverages,27.98,40.78
+2225,Bakery,11.93,17.24
+2226,Dairy,54.24,87.45
+2227,Frozen,54.91,95.93
+2228,Personal Care,47.37,62.76
+2229,Frozen,42.67,58.46
+2230,Dairy,36.07,56.1
+2231,Bakery,44.06,58.99
+2232,Frozen,25.42,40.17
+2233,Produce,10.98,16.38
+2234,Beverages,26.68,51.68
+2235,Frozen,12.23,23.64
+2236,Household,41.55,62.54
+2237,Frozen,49.9,65.01
+2238,Household,59.92,111.16
+2239,Bakery,9.97,17.1
+2240,Frozen,2.14,3.78
+2241,Produce,12.81,25.23
+2242,Snacks,14.27,26.52
+2243,Personal Care,20.95,29.31
+2244,Frozen,49.84,91.2
+2245,Beverages,42.49,81.07
+2246,Snacks,35.21,42.9
+2247,Frozen,52.21,65.92
+2248,Produce,13.18,20.97
+2249,Household,28.35,53.27
+2250,Frozen,16.85,31.65
+2251,Snacks,25.06,45.7
+2252,Frozen,43.14,77.53
+2253,Household,18.36,26.03
+2254,Snacks,15.58,28.4
+2255,Snacks,37.52,55.53
+2256,Dairy,39.95,58.8
+2257,Frozen,16.37,21.8
+2258,Frozen,12.42,23.59
+2259,Snacks,34.06,41.71
+2260,Household,31.8,50.28
+2261,Produce,53.85,84.8
+2262,Beverages,23.6,29.95
+2263,Household,50.53,61.67
+2264,Beverages,47.35,61.7
+2265,Frozen,49.54,93.81
+2266,Snacks,31.38,41.62
+2267,Produce,39.63,64.76
+2268,Frozen,20.51,26.81
+2269,Dairy,27.83,37.41
+2270,Frozen,24.34,39.95
+2271,Bakery,25.42,46.78
+2272,Snacks,32.7,55.09
+2273,Personal Care,52.13,100.96
+2274,Snacks,34.91,58.91
+2275,Dairy,52.76,76.9
+2276,Produce,3.1,3.96
+2277,Dairy,42.94,78.86
+2278,Frozen,20.4,26.85
+2279,Frozen,42.2,63.18
+2280,Household,39.78,77.14
+2281,Personal Care,28.72,53.12
+2282,Household,19.64,34.71
+2283,Snacks,45.24,86.24
+2284,Household,43.25,70.26
+2285,Household,46.08,75.77
+2286,Household,28.07,36.78
+2287,Snacks,48.45,69.97
+2288,Snacks,42.24,72.89
+2289,Produce,4.27,7.89
+2290,Frozen,34.13,55.69
+2291,Produce,54.98,89.66
+2292,Dairy,55.35,70.98
+2293,Dairy,57.31,89.04
+2294,Beverages,55.98,69.49
+2295,Beverages,43.95,79.25
+2296,Dairy,23.89,45.49
+2297,Dairy,11.06,17.94
+2298,Produce,58.17,107.45
+2299,Beverages,57.71,105.38
+2300,Household,19.64,35.07
+2301,Personal Care,55.6,68.27
+2302,Produce,53.13,92.86
+2303,Personal Care,9.49,15.94
+2304,Household,57.69,69.56
+2305,Personal Care,34.01,55.78
+2306,Beverages,21.58,38.22
+2307,Produce,23.63,47.15
+2308,Personal Care,4.63,6.01
+2309,Snacks,7.13,10.84
+2310,Bakery,17.14,26.71
+2311,Snacks,27.79,45.33
+2312,Personal Care,35.64,57.89
+2313,Household,30.21,56.76
+2314,Bakery,49.91,62.9
+2315,Snacks,31.56,55.86
+2316,Produce,55.33,95.88
+2317,Bakery,57.61,79.35
+2318,Bakery,21.79,33.14
+2319,Frozen,5.28,8.57
+2320,Frozen,55.33,101.27
+2321,Produce,36.65,52.77
+2322,Dairy,29.32,46.06
+2323,Frozen,25.27,32.3
+2324,Household,12.79,24.15
+2325,Beverages,51.51,95.44
+2326,Personal Care,52.33,72.47
+2327,Household,44.78,89.01
+2328,Snacks,21.07,35.09
+2329,Household,24.47,44.08
+2330,Household,21.16,37.54
+2331,Frozen,10.25,18.78
+2332,Beverages,36.19,67.33
+2333,Snacks,28.78,57.17
+2334,Household,59.06,115.12
+2335,Snacks,2.13,2.92
+2336,Produce,33.02,64.9
+2337,Frozen,33.03,41.62
+2338,Frozen,42.38,72.58
+2339,Snacks,35.5,69.12
+2340,Produce,52.87,74.3
+2341,Beverages,22.09,26.94
+2342,Frozen,16.77,25.05
+2343,Beverages,15.72,27.77
+2344,Personal Care,7.51,14.54
+2345,Snacks,32.88,46.16
+2346,Snacks,10.33,13.04
+2347,Personal Care,28.06,38.97
+2348,Dairy,55.73,90.62
+2349,Frozen,56.26,82.82
+2350,Personal Care,40.85,76.57
+2351,Produce,37.92,62.92
+2352,Bakery,6.93,13.75
+2353,Beverages,10.49,20.33
+2354,Personal Care,21.93,33.48
+2355,Frozen,26.88,32.32
+2356,Snacks,49.81,81.48
+2357,Dairy,16.82,31.05
+2358,Dairy,43.44,86.34
+2359,Beverages,36.74,54.8
+2360,Beverages,5.5,7.76
+2361,Bakery,36.1,71.64
+2362,Bakery,56.06,95.95
+2363,Bakery,8.24,11.36
+2364,Personal Care,35.91,46.34
+2365,Produce,20.32,32.11
+2366,Dairy,48.12,75.88
+2367,Dairy,20.79,38.19
+2368,Dairy,33.05,57.63
+2369,Snacks,28.27,54.69
+2370,Snacks,6.25,8.7
+2371,Household,51.47,65.22
+2372,Produce,29.41,46.41
+2373,Dairy,37.34,57.45
+2374,Dairy,55.92,79.98
+2375,Snacks,54.0,107.78
+2376,Dairy,21.06,29.02
+2377,Bakery,16.37,28.68
+2378,Produce,31.21,49.8
+2379,Dairy,13.79,20.36
+2380,Household,5.78,8.35
+2381,Personal Care,12.45,19.54
+2382,Personal Care,2.09,2.63
+2383,Beverages,32.24,43.53
+2384,Dairy,13.73,25.88
+2385,Produce,20.87,28.54
+2386,Bakery,33.43,47.15
+2387,Beverages,56.6,111.2
+2388,Beverages,4.12,5.93
+2389,Snacks,3.42,6.73
+2390,Produce,45.27,67.23
+2391,Beverages,55.24,98.8
+2392,Personal Care,10.21,12.54
+2393,Personal Care,20.14,28.47
+2394,Personal Care,3.15,4.64
+2395,Household,3.05,5.54
+2396,Snacks,54.37,100.68
+2397,Beverages,32.41,61.11
+2398,Personal Care,48.95,89.65
+2399,Snacks,17.6,26.6
+2400,Bakery,24.95,34.36
+2401,Household,37.24,65.2
+2402,Produce,42.26,83.4
+2403,Dairy,59.24,107.79
+2404,Beverages,6.76,12.17
+2405,Bakery,12.11,24.2
+2406,Produce,59.33,74.06
+2407,Produce,40.59,64.96
+2408,Personal Care,13.55,19.56
+2409,Beverages,46.5,68.32
+2410,Produce,13.95,21.77
+2411,Bakery,19.94,37.46
+2412,Produce,35.25,53.81
+2413,Produce,6.46,8.25
+2414,Frozen,33.4,53.07
+2415,Snacks,44.42,75.19
+2416,Bakery,4.13,5.37
+2417,Bakery,38.01,58.41
+2418,Bakery,17.6,23.21
+2419,Household,38.67,75.26
+2420,Dairy,28.02,55.2
+2421,Personal Care,5.43,7.83
+2422,Bakery,29.94,57.71
+2423,Household,39.67,70.89
+2424,Dairy,6.26,12.48
+2425,Dairy,51.03,67.81
+2426,Dairy,2.35,3.31
+2427,Produce,49.52,78.59
+2428,Frozen,41.77,78.74
+2429,Dairy,26.04,38.74
+2430,Household,10.52,16.88
+2431,Frozen,44.82,71.46
+2432,Beverages,39.72,50.21
+2433,Personal Care,28.52,38.91
+2434,Personal Care,53.71,69.7
+2435,Personal Care,34.55,44.7
+2436,Household,12.68,20.71
+2437,Bakery,38.45,65.22
+2438,Produce,32.77,56.57
+2439,Bakery,50.58,95.69
+2440,Frozen,6.41,11.64
+2441,Dairy,27.77,35.9
+2442,Produce,18.14,24.63
+2443,Produce,35.3,61.38
+2444,Bakery,16.68,25.5
+2445,Produce,48.21,64.96
+2446,Dairy,52.11,68.79
+2447,Dairy,32.43,61.06
+2448,Bakery,30.63,60.1
+2449,Bakery,16.02,21.11
+2450,Snacks,29.2,51.26
+2451,Household,40.06,50.88
+2452,Bakery,5.7,11.08
+2453,Beverages,3.54,4.51
+2454,Snacks,8.09,12.1
+2455,Produce,32.72,48.17
+2456,Produce,34.78,57.33
+2457,Dairy,46.63,76.05
+2458,Beverages,58.3,105.41
+2459,Bakery,11.54,17.52
+2460,Bakery,26.98,42.51
+2461,Snacks,30.38,46.83
+2462,Frozen,44.04,87.72
+2463,Produce,48.4,68.3
+2464,Personal Care,42.37,52.3
+2465,Personal Care,22.73,27.75
+2466,Personal Care,11.5,21.47
+2467,Frozen,8.1,12.86
+2468,Snacks,53.14,82.45
+2469,Household,29.73,42.27
+2470,Household,24.53,32.06
+2471,Beverages,38.31,48.61
+2472,Household,18.31,27.12
+2473,Household,20.6,31.51
+2474,Beverages,10.65,21.01
+2475,Household,15.04,22.03
+2476,Dairy,58.01,90.0
+2477,Beverages,39.23,65.74
+2478,Bakery,21.4,26.3
+2479,Dairy,32.99,54.95
+2480,Snacks,54.2,78.41
+2481,Produce,39.29,56.06
+2482,Household,13.71,22.12
+2483,Bakery,14.91,21.12
+2484,Personal Care,45.08,73.85
+2485,Bakery,29.21,55.28
+2486,Produce,31.32,54.87
+2487,Frozen,48.0,62.1
+2488,Snacks,22.71,42.04
+2489,Personal Care,6.55,12.45
+2490,Household,16.95,22.38
+2491,Personal Care,9.33,17.39
+2492,Bakery,35.28,66.7
+2493,Dairy,15.02,21.22
+2494,Beverages,8.25,11.64
+2495,Bakery,31.52,53.19
+2496,Snacks,57.32,96.05
+2497,Beverages,16.51,28.22
+2498,Bakery,39.38,66.67
+2499,Personal Care,9.75,11.77
+2500,Bakery,43.65,71.15

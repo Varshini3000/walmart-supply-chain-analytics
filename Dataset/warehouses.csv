@@ -1,0 +1,51 @@
+WarehouseID,WarehouseName,City,Region,Capacity
+WH001,New York Distribution Center 1,New York,East,33278
+WH002,Chicago Distribution Center 2,Chicago,North,62098
+WH003,Los Angeles Distribution Center 3,Los Angeles,West,48289
+WH004,New York Distribution Center 4,New York,East,41395
+WH005,Denver Distribution Center 5,Denver,Central,85302
+WH006,New York Distribution Center 6,New York,East,33905
+WH007,New York Distribution Center 7,New York,East,58657
+WH008,Los Angeles Distribution Center 8,Los Angeles,West,96237
+WH009,Denver Distribution Center 9,Denver,Central,33478
+WH010,Denver Distribution Center 10,Denver,Central,56062
+WH011,Denver Distribution Center 11,Denver,Central,84987
+WH012,Los Angeles Distribution Center 12,Los Angeles,West,88878
+WH013,Denver Distribution Center 13,Denver,Central,66463
+WH014,New York Distribution Center 14,New York,East,50926
+WH015,Dallas Distribution Center 15,Dallas,South,74597
+WH016,Chicago Distribution Center 16,Chicago,North,50379
+WH017,Los Angeles Distribution Center 17,Los Angeles,West,74118
+WH018,New York Distribution Center 18,New York,East,42156
+WH019,Dallas Distribution Center 19,Dallas,South,42676
+WH020,Chicago Distribution Center 20,Chicago,North,75082
+WH021,Denver Distribution Center 21,Denver,Central,64671
+WH022,New York Distribution Center 22,New York,East,90217
+WH023,Denver Distribution Center 23,Denver,Central,46361
+WH024,Dallas Distribution Center 24,Dallas,South,40328
+WH025,Denver Distribution Center 25,Denver,Central,68427
+WH026,Denver Distribution Center 26,Denver,Central,77400
+WH027,Denver Distribution Center 27,Denver,Central,55203
+WH028,New York Distribution Center 28,New York,East,36006
+WH029,Los Angeles Distribution Center 29,Los Angeles,West,67930
+WH030,New York Distribution Center 30,New York,East,60512
+WH031,New York Distribution Center 31,New York,East,79823
+WH032,Chicago Distribution Center 32,Chicago,North,89429
+WH033,Chicago Distribution Center 33,Chicago,North,51319
+WH034,Chicago Distribution Center 34,Chicago,North,76566
+WH035,Los Angeles Distribution Center 35,Los Angeles,West,64993
+WH036,New York Distribution Center 36,New York,East,52431
+WH037,Denver Distribution Center 37,Denver,Central,62087
+WH038,Los Angeles Distribution Center 38,Los Angeles,West,90589
+WH039,Dallas Distribution Center 39,Dallas,South,65382
+WH040,Denver Distribution Center 40,Denver,Central,58785
+WH041,Chicago Distribution Center 41,Chicago,North,37331
+WH042,Los Angeles Distribution Center 42,Los Angeles,West,34207
+WH043,Chicago Distribution Center 43,Chicago,North,82581
+WH044,Chicago Distribution Center 44,Chicago,North,38675
+WH045,Los Angeles Distribution Center 45,Los Angeles,West,71245
+WH046,Los Angeles Distribution Center 46,Los Angeles,West,95435
+WH047,Dallas Distribution Center 47,Dallas,South,90142
+WH048,Los Angeles Distribution Center 48,Los Angeles,West,64718
+WH049,Los Angeles Distribution Center 49,Los Angeles,West,62325
+WH050,Denver Distribution Center 50,Denver,Central,64438
