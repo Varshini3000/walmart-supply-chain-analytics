@@ -272,7 +272,7 @@ walmart-supply-chain-analytics/
 
 ### Page 1 — Supply Chain Overview
 
-![Supply Chain Overview](Screenshots/Supply_Chain_Overview.png)
+![Supply Chain Overview](Screenshots/Supply Chain Overview.png).
 
 ### Page 2 — Inventory & Warehouse Performance
 
