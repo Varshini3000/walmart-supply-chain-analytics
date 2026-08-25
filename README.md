@@ -250,15 +250,16 @@ walmart-supply-chain-analytics/
 ├── Dataset/
 │
 ├── SQL/
-│   └── WALMART_SUPPLY_CHAINDB.sql
-│
+│   └── sql_walmart1.sql
+│   |__ sql_walmart2.sql
+|
 ├── PowerBI/
 │   └── Walmart_Supply_Chain_Dashboard.pbix
 │
 ├── Screenshots/
-│   ├── Page_1_Supply_Chain_Overview.png
-│   ├── Page_2_Inventory_Warehouse.png
-│   └── Page_3_Shipment_Supplier.png
+│   ├── Supply_Chain_Overview.png
+│   ├── Inventory_&_Warehouse.png
+│   └── Shipment_&_Supplier_Performance.png
 │
 ├── Documentation/
 │   └── Walmart_Supply_Chain_Presentation.pptx
